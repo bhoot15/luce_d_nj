@@ -1496,7 +1496,7 @@ nav.fixed.scrolled {
 nav.transparent .menu > li > a,
 nav.transparent .module.widget-handle i,
 nav.transparent .nav-utility {
-  color: #fff;
+  color: #28ada9;
 }
 nav.transparent .nav-utility,
 nav.transparent .nav-bar {
@@ -1533,7 +1533,7 @@ nav.transparent {
   nav.transparent .nav-open .menu > li > a,
   nav.transparent .nav-open .module.widget-handle i,
   nav.transparent .nav-open .nav-utility {
-    color: #292929;
+    color: #2BBBAD;
   }
   nav.transparent .nav-open .logo-dark {
     display: inline;

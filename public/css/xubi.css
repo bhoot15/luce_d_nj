@@ -1,0 +1,22 @@
+.control-box {
+    width: 100%;
+}
+
+.carousel-control {
+    background: #000 !important;
+    border: 0px;
+    border-radius: 0px;
+    display: inline-block;
+    font-size: 34px;
+    font-weight: 200;
+    line-height: 18px;
+    opacity: 0.5;
+    padding: 4px 10px;
+    margin: 190px -40px 0;
+    height: 30px;
+    width: 30px;
+}
+
+.image-border {
+    border: 2px solid #000;
+}
