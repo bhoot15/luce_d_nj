@@ -14,8 +14,6 @@ $(document).ready(function () {
     ResCarouselSize();
 
 
-
-
     $(window).resize(function () {
         ResCarouselSize();
     });
@@ -54,7 +52,7 @@ $(document).ready(function () {
                 incno = itemsSplit[0];
                 itemWidth = sampwidth / incno;
             }
-            $(this).css({ 'transform': 'translateX(0px)', 'width': itemWidth * itemNumbers });
+            $(this).css({'transform': 'translateX(0px)', 'width': itemWidth * itemNumbers});
             $(this).find(itemClass).each(function () {
                 $(this).outerWidth(itemWidth);
             });
@@ -104,3 +102,7 @@ $(document).ready(function () {
     }
 
 });
+
+$("[data-menu-underline-from-center] a").addClass("underline-from-center");
+
+

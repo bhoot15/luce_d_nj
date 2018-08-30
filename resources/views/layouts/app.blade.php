@@ -19,7 +19,7 @@
 <body class="scroll-assist">
 <div class="nav-container">
     <a id="top"></a>
-    <nav class="nav-centered absolute transparent">
+    <nav class="nav-centered absolute transparent hover-underline-menu" data-menu-underline-from-center>
         <!--<div class="text-center">
             <a href="index.html">
                 <img class="logo logo-light" alt="Foundry" src="img/logo-light.png" />
@@ -32,7 +32,7 @@
             </div>
             <div class="module-group text-left">
                 <div class="module left">
-                    <ul class="menu">
+                    <ul class="menu align-center">
                         <li class="fa-li">
                             <a href="/">
                                 Home

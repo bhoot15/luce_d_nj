@@ -366,6 +366,29 @@
         </li>
     </ul>
 </section>
+<section class="bg-secondary">
+    <div class="container">
+        <div class="row mb64 mb-xs-24">
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <a href="#">
+                    <h2 class="uppercase  mb16">YouTube</h2>
+                </a>
+<!--                <h6 class="uppercase">Subscribe Us For Updates</h6>-->
+            </div>
+        </div>
+        <!--end of row-->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="instafeed grid-gallery text-center" data-user-name="mrareweb">
+                    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/TUniKcafl2c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+        <!--end of row-->
+    </div>
+    <!--end of container-->
+</section>
+
 @endsection
 <div class="foundry_modal text-center image-bg overlay"
      data-time-delay="3000" data-cookie="signup-form-dismissed">
