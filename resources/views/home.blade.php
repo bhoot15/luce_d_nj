@@ -134,8 +134,16 @@
 </section>
 <section class="bg-light">
     <div class="container">
+        <div class="row mb64 mb-xs-24">
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <a href="#">
+                    <h2 class="uppercase  mb16">Less is More</h2>
+                </a>
+                <!--                <h6 class="uppercase">Subscribe Us For Updates</h6>-->
+            </div>
+        </div>
         <div class="row">
-            <div class="col-sm-6" >
+            <div class="col-sm-6">
                 <div class="image-tile inner-title title-center text-center">
                     <a href="/">
                         <img class="image-border" alt="Pic" src="img/misty/less_is_more.jpeg"/>
@@ -321,66 +329,160 @@
     </div>
     <!--end of container-->
 </section>
-<section class="cover fullscreen slider-all-controls controls-inside">
-    <ul class="slides">
-        <li class="overlay">
-            <div class="background-image-holder">
-                <img alt="image" class="background-image" src="img/home23.jpg" />
+<section class="bg-light slider-all-controls controls-inside">
+    <div class="container">
+        <div class="row mb64 mb-xs-24">
+            <div class="col-md-8 col-md-offset-2 text-center">
+
+                <h2 class="uppercase">NJ'S LOOKBOOK</h2>
+                <!--                <h6 class="uppercase">Subscribe Us For Updates</h6>-->
             </div>
-            <div class="container v-align-transform">
-                <div class="row">
-                    <div class="col-sm-10 col-sm-offset-1 text-center">
-                        <h1 class="mb40 mb-xs-16 large">Sleek, Intuitive &amp; Performant,
-                            <br /> It's your design toolkit.</h1>
-<!--                        <h6 class="uppercase mb16">A performance focussed template.</h6>-->
-<!--                        <p class="lead mb40">-->
-<!--                            Build beautiful, contemporary sites in just moments-->
-<!--                            <br />with Foundry and Variant Page Builder.-->
-<!--                        </p>-->
-<!--                        <a class="btn btn-lg btn-filled" href="#">Start Exploring</a>-->
+        </div>
+        <div class="row cover fullscreen">
+            <ul class="slides text-center">
+                <li class="">
+                    <div class="background-image-holder">
+                        <img alt="image" class="img-responsive" src="img/njs/BLACK_GOLDEN_MUSING.jpg"/>
                     </div>
-                </div>
-                <!--end of row-->
-            </div>
-            <!--end of container-->
-        </li>
-        <li class="overlay">
-            <div class="background-image-holder">
-                <img alt="image" class="background-image" src="img/home22.jpg" />
-            </div>
-            <div class="container v-align-transform">
-                <div class="row">
-                    <div class="col-sm-offset-1 text-center col-sm-10">
-                        <h1 class="mb40 mb-xs-16 large">Foundry brings your content to life in stunning clarity</h1>
-<!--                        <h6 class="uppercase mb16">A complete block-based solution</h6>-->
-<!--                        <p class="lead mb40">-->
-<!--                            Build beautiful, contemporary sites in just moments-->
-<!--                            <br />with Foundry and Variant Page Builder.-->
-<!--                        </p>-->
-<!--                        <a class="btn btn-lg btn-white" href="#">Start Exploring</a>-->
+                    <div class="container v-align-transform">
+                        <div class="row">
+                            <div class="col-sm-10 col-sm-offset-1 text-center">
+                                <h1 class="bold mb40 mb-xs-16 large">BLACK GOLDEN MUSING</h1>
+                            </div>
+                        </div>
+                        <!--end of row-->
                     </div>
-                </div>
-                <!--end of row-->
-            </div>
-            <!--end of container-->
-        </li>
-    </ul>
+                    <!--end of container-->
+                </li>
+                <li class="">
+                    <div class="background-image-holder">
+                        <img alt="image" class="background-image" src="img/njs/BRUNCH_AT_BAE_S_PLACE.jpg"/>
+                    </div>
+                    <div class="container v-align-transform">
+                        <div class="row">
+                            <div class="col-sm-offset-1 text-center col-sm-10">
+                                <h1 class="bold mb40 mb-xs-16 large">BRUNCH AT BAE'S PLACE</h1>
+                            </div>
+                        </div>
+                        <!--end of row-->
+                    </div>
+                    <!--end of container-->
+                </li>
+                <li class="">
+                    <div class="background-image-holder">
+                        <img alt="image" class="background-image"
+                             src="img/njs/CASUAL_EVENING_DATE_WITH_FLORAL_MOTIF.jpg"/>
+                    </div>
+                    <div class="container v-align-transform">
+                        <div class="row">
+                            <div class="col-sm-offset-1 text-center col-sm-10">
+                                <h1 class="bold mb40 mb-xs-16 large">CASUAL EVENING DATE WITH FLORAL MOTIF</h1>
+                            </div>
+                        </div>
+                        <!--end of row-->
+                    </div>
+                    <!--end of container-->
+                </li>
+                <li class="">
+                    <div class="background-image-holder">
+                        <img alt="image" class="background-image"
+                             src="img/njs/CHOKER_COLD_SHOULDER_IS_NEW_LOVE_AFFAIR.jpg"/>
+                    </div>
+                    <div class="container v-align-transform">
+                        <div class="row">
+                            <div class="col-sm-offset-1 text-center col-sm-10">
+                                <h1 class="bold mb40 mb-xs-16 large">CHOKER COLD SHOULDER IS NEW LOVE AFFAIR</h1>
+                            </div>
+                        </div>
+                        <!--end of row-->
+                    </div>
+                    <!--end of container-->
+                </li>
+            </ul>
+        </div>
+    </div>
 </section>
-<section class="bg-secondary">
+<section class="bg-secondary slider-all-controls controls-inside">
+    <div class="container">
+        <div class="row mb64 mb-xs-24">
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <h2 class="uppercase">LIGHT OF FASHION</h2>
+            </div>
+        </div>
+        <div class="row cover overlay-heavy fullscreen ">
+            <ul class="slides">
+                <li class="">
+                    <div class="background-image-holder">
+                        <img alt="image" class="background-image" src="img/light_of_fashion/lof0.jpg"/>
+                    </div>
+                    <div class="container v-align-transform">
+                        <div class="row">
+                            <div class="col-sm-10 col-sm-offset-1 text-center">
+                            </div>
+                        </div>
+                        <!--end of row-->
+                    </div>
+                    <!--end of container-->
+                </li>
+                <li class="">
+                    <div class="background-image-holder">
+                        <img alt="image" class="background-image" src="img/light_of_fashion/lof1.jpg"/>
+                    </div>
+                    <div class="container v-align-transform">
+                        <div class="row">
+                            <div class="col-sm-offset-1 text-center col-sm-10">
+                            </div>
+                        </div>
+                        <!--end of row-->
+                    </div>
+                    <!--end of container-->
+                </li>
+                <li class="">
+                    <div class="background-image-holder">
+                        <img alt="image" class="background-image" src="img/light_of_fashion/lof2.jpg"/>
+                    </div>
+                    <div class="container v-align-transform">
+                        <div class="row">
+                            <div class="col-sm-offset-1 text-center col-sm-10">
+                            </div>
+                        </div>
+                        <!--end of row-->
+                    </div>
+                    <!--end of container-->
+                </li>
+                <li class="">
+                    <div class="background-image-holder">
+                        <img alt="image" class="background-image" src="img/light_of_fashion/lof3.jpg"/>
+                    </div>
+                    <div class="container v-align-transform">
+                        <div class="row">
+                            <div class="col-sm-offset-1 text-center col-sm-10">
+                            </div>
+                        </div>
+                        <!--end of row-->
+                    </div>
+                    <!--end of container-->
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<section class="bg-light">
     <div class="container">
         <div class="row mb64 mb-xs-24">
             <div class="col-md-8 col-md-offset-2 text-center">
                 <a href="#">
                     <h2 class="uppercase  mb16">YouTube</h2>
                 </a>
-<!--                <h6 class="uppercase">Subscribe Us For Updates</h6>-->
+                <!--                <h6 class="uppercase">Subscribe Us For Updates</h6>-->
             </div>
         </div>
         <!--end of row-->
         <div class="row">
             <div class="col-md-12">
                 <div class="instafeed grid-gallery text-center" data-user-name="mrareweb">
-                    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/TUniKcafl2c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe width="100%" height="600px" src="https://www.youtube.com/embed/TUniKcafl2c" frameborder="0"
+                            allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
