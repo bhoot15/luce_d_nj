@@ -137,7 +137,7 @@
         <div class="row mb64 mb-xs-24">
             <div class="col-md-8 col-md-offset-2 text-center">
                 <a href="#">
-                    <h2 class="uppercase  mb16">Less is More</h2>
+                    <h2 class="uppercase  mb16">Signature Collection</h2>
                 </a>
                 <!--                <h6 class="uppercase">Subscribe Us For Updates</h6>-->
             </div>
@@ -148,7 +148,7 @@
                     <a href="/">
                         <img class="image-border" alt="Pic" src="img/misty/less_is_more.jpeg"/>
                         <div class="title">
-                            <h4 class="uppercase mb0"></h4>
+                            <h4 class="uppercase mb0 btn btn-lg">LESS IS MORE</h4>
                         </div>
                     </a>
                 </div>
@@ -159,7 +159,7 @@
                         <img class="image-border" alt="Pic"
                              src="img/misty/less_is_more_2.jpeg"/>
                         <div class="title">
-                            <h4 class="uppercase mb0"></h4>
+                            <h4 class="uppercase mb0 btn btn-lg">LUXURY SCARVES</h4>
                         </div>
                     </a>
                 </div>
@@ -347,7 +347,8 @@
                     <div class="container v-align-transform">
                         <div class="row">
                             <div class="col-sm-10 col-sm-offset-1 text-center">
-                                <h1 class="bold mb40 mb-xs-16 large">BLACK GOLDEN MUSING</h1>
+<!--                                <h2 class="btn btn-lg">BLACK GOLDEN MUSING</h2>-->
+                                <a class="btn btn-lg" href="#">BLACK GOLDEN MUSING</a>
                             </div>
                         </div>
                         <!--end of row-->
@@ -361,7 +362,8 @@
                     <div class="container v-align-transform">
                         <div class="row">
                             <div class="col-sm-offset-1 text-center col-sm-10">
-                                <h1 class="bold mb40 mb-xs-16 large">BRUNCH AT BAE'S PLACE</h1>
+<!--                                <h4 class="btn btn-lg">BRUNCH AT BAE'S PLACE</h4>-->
+                                <a class="btn btn-lg" href="#">BRUNCH AT BAE'S PLACE</a>
                             </div>
                         </div>
                         <!--end of row-->
@@ -376,7 +378,8 @@
                     <div class="container v-align-transform">
                         <div class="row">
                             <div class="col-sm-offset-1 text-center col-sm-10">
-                                <h1 class="bold mb40 mb-xs-16 large">CASUAL EVENING DATE WITH FLORAL MOTIF</h1>
+<!--                                <h2 class="btn">CASUAL EVENING DATE WITH FLORAL MOTIF</h2>-->
+                                <a class="btn btn-lg" href="#">CASUAL EVENING DATE WITH FLORAL MOTIF</a>
                             </div>
                         </div>
                         <!--end of row-->
@@ -391,7 +394,8 @@
                     <div class="container v-align-transform">
                         <div class="row">
                             <div class="col-sm-offset-1 text-center col-sm-10">
-                                <h1 class="bold mb40 mb-xs-16 large">CHOKER COLD SHOULDER IS NEW LOVE AFFAIR</h1>
+<!--                                <h4 class="bold mb40 mb-xs-16">CHOKER COLD SHOULDER IS NEW LOVE AFFAIR</h4>-->
+                                <a class="btn btn-lg" href="#">CHOKER COLD SHOULDER IS NEW LOVE AFFAIR</a>
                             </div>
                         </div>
                         <!--end of row-->

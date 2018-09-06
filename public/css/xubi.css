@@ -62,5 +62,22 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.bg-light .btn-xubi {
+    border-color: #fff;
+    color: #fff;
+}
+.btn:hover {
+    background: transparent;
+    color: #fff;
+    border-color: #fff;
+}
+.bg-light .btn {
+    border-color: #fff;
+    color: #fff;
+}
+.bg-light .btn:visited,
+.bg-light .btn:visited:hover {
+    color: #fff;
+}
 
 
