@@ -38,10 +38,22 @@
                                 Home
                             </a>
                         </li>
-                        <li class="fa-li">
+                        <li class="has-dropdown">
                             <a href="/signature-collection">
                                 Signature Collection
                             </a>
+                            <ul class="mega-menu">
+                                <li>
+                                    <ul>
+                                        <li>
+                                            <a href="/less-is-more">Less Is More</a>
+                                        </li>
+                                        <li>
+                                            <a href="/luxury-scarves">LUXURY SCARVES</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
                         </li>
                         <li class="fa-li">
                             <a href="/">
@@ -80,7 +92,7 @@
 <div class="main-container">
     <section class="fullscreen image-bg parallax">
         <div class="background-image-holder">
-            <img alt="image" class="background-image" src="img/misty/logo_big.png" />
+            <img alt="image" class="background-image" src="img/misty/logo_big.png"/>
         </div>
         <div class="container v-align-transform">
             <div class="row">
@@ -111,7 +123,7 @@
                 <div class="col-md-3 col-sm-6">
                     <h6 class="title">LUCE D NJ</h6>
                     <hr>
-                    <img alt="Logo" class="logo" src="img/misty/logo.jpg" />
+                    <img alt="Logo" class="logo" src="img/misty/logo.jpg"/>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">

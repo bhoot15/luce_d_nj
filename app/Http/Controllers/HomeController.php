@@ -25,4 +25,19 @@ class HomeController extends Controller
     {
         return view('home');
     }
+
+    public function signatureCollection()
+    {
+        return view('signature_collection');
+    }
+
+    public function lessIsMore()
+    {
+        return view('less_is_more');
+    }
+    public function scarves()
+    {
+        return view('luxury_scarves');
+    }
+
 }

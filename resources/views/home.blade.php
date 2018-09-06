@@ -145,7 +145,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="image-tile inner-title title-center text-center">
-                    <a href="/">
+                    <a href="/signature-collection">
                         <img class="image-border" alt="Pic" src="img/misty/less_is_more.jpeg"/>
                         <div class="title">
                             <h4 class="uppercase mb0 btn btn-lg">LESS IS MORE</h4>
@@ -155,7 +155,7 @@
             </div>
             <div class="col-sm-6">
                 <div class="image-tile inner-title title-center text-center">
-                    <a href="/">
+                    <a href="/signature-collection">
                         <img class="image-border" alt="Pic"
                              src="img/misty/less_is_more_2.jpeg"/>
                         <div class="title">
