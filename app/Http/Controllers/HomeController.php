@@ -35,9 +35,24 @@ class HomeController extends Controller
     {
         return view('less_is_more');
     }
+
     public function scarves()
     {
         return view('luxury_scarves');
+    }
+
+    public function contacts()
+    {
+        return view('contacts');
+    }
+
+    public function about()
+    {
+        return view('about');
+    }
+    public function workWithUs()
+    {
+        return view('work_with_us');
     }
 
 }

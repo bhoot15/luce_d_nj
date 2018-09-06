@@ -12,9 +12,107 @@
     <link href="css/theme-gunmetal.css" rel="stylesheet" type="text/css" media="all"/>
     <link href="css/custom.css" rel="stylesheet" type="text/css" media="all"/>
     <link href="css/xubi.css" rel="stylesheet" type="text/css" media="all"/>
+    <!--    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all"/>-->
     <link
         href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600'
         rel='stylesheet' type='text/css'>
+    <style>
+        footer {
+            background-color: #0c1a1e;
+            min-height: 350px;
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        .footerleft {
+            margin-top: 50px;
+            padding: 0 36px;
+        }
+
+        .logofooter {
+            margin-bottom: 10px;
+            font-size: 25px;
+            color: #fff;
+            font-weight: 700;
+        }
+
+        .footerleft p {
+            color: #fff;
+            font-size: 12px !important;
+            font-family: 'Open Sans', sans-serif;
+            margin-bottom: 15px;
+        }
+
+        .footerleft p i {
+            width: 20px;
+            color: #999;
+        }
+
+        .paddingtop-bottom {
+            margin-top: 50px;
+        }
+
+        .footer-ul {
+            list-style-type: none;
+            padding-left: 0px;
+            margin-left: 2px;
+        }
+
+        .footer-ul li {
+            line-height: 29px;
+            font-size: 12px;
+        }
+
+        .footer-ul li a {
+            color: #a0a3a4;
+            transition: color 0.2s linear 0s, background 0.2s linear 0s;
+        }
+
+        .footer-ul i {
+            margin-right: 10px;
+        }
+
+        .footer-ul li a:hover {
+            transition: color 0.2s linear 0s, background 0.2s linear 0s;
+            color: #e1bee7;
+        }
+
+        .icon-ul li {
+            line-height: 75px;
+            width: 100%;
+            float: left;
+        }
+
+        .copyright {
+            min-height: 40px;
+            background-color: #000000;
+        }
+
+        .copyright p {
+            text-align: left;
+            color: #FFF;
+            padding: 10px 0;
+            margin-bottom: 0px;
+        }
+
+        .heading7 {
+            font-size: 21px;
+            font-weight: 700;
+            color: #d9d6d6;
+            margin-bottom: 22px;
+        }
+
+        .post p {
+            font-size: 12px;
+            color: #FFF;
+            line-height: 20px;
+        }
+
+        .post p span {
+            display: block;
+            color: #8f8f8f;
+        }
+    </style>
+
 </head>
 <body class="scroll-assist">
 <div class="nav-container">
@@ -61,7 +159,7 @@
                             </a>
                         </li>
                         <li class="fa-li">
-                            <a href="/">
+                            <a href="/about">
                                 About Us
                             </a>
                         </li>
@@ -71,12 +169,12 @@
                             </a>
                         </li>
                         <li class="fa-li">
-                            <a href="/">
+                            <a href="/contacts">
                                 Contacts
                             </a>
                         </li>
                         <li class="fa-li">
-                            <a href="/">
+                            <a href="/work-with-us">
                                 Work With Us
                             </a>
                         </li>
@@ -117,97 +215,64 @@
         <!--end of container-->
     </section>
     @yield('content')
-    <footer class="footer-1 bg-dark">
+    <!--footer start from here-->
+    <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <h6 class="title">LUCE D NJ</h6>
-                    <hr>
-                    <img alt="Logo" class="logo" src="img/misty/logo.jpg"/>
+                <div class="col-md-4 col-sm-6 footerleft ">
+                    <br>
+                    <div class="logofooter"><img src="img/misty/logo.jpg" height="200px" width="auto"></div>
+                    <br>
+
                 </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h6 class="title">Recent Posts</h6>
-                        <hr>
-                        <ul class="link-list recent-posts">
-                            <li>
-                                <a href="#">Hugging pugs is super trendy</a>
-                                <span class="date">February
-                                            <span class="number">14, 2015</span>
-                                        </span>
-                            </li>
-                            <li>
-                                <a href="#">Spinning vinyl is oh so cool</a>
-                                <span class="date">February
-                                            <span class="number">9, 2015</span>
-                                        </span>
-                            </li>
-                            <li>
-                                <a href="#">Superior theme design by pros</a>
-                                <span class="date">January
-                                            <span class="number">27, 2015</span>
-                                        </span>
-                            </li>
-                        </ul>
+                <div class="col-md-3 col-sm-6 paddingtop-bottom">
+                    <h6 class="heading7">ADDRESS</h6>
+                    <div class="post">
+                        <p><i class="fa fa-map-marker" aria-hidden="true"></i> LUCE D NJ<br>Dhaka, Bangladesh</p>
+                        <p><i class="fa fa-phone" aria-hidden="true"></i> Phone: +880 – 1727 – 521 – 919</p>
+                        <p><i class="fa fa-envelope" aria-hidden="true"></i> E-mail : <a target="_top"
+                                                                                         href="mailto:info@nexeltinc.com"
+                                                                                         style="color: inherit">lightofnj@gmail.com</a>
+                        </p>
                     </div>
-                    <!--end of widget-->
                 </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h6 class="title">Latest Updates</h6>
-                        <hr>
-                        <div class="twitter-feed">
-                            <div class="tweets-feed" data-feed-name="mrareweb">
-                            </div>
-                        </div>
-                    </div>
-                    <!--end of widget-->
+                <div class="col-md-2 col-sm-6 paddingtop-bottom">
+                    <h6 class="heading7">GENERAL LINKS</h6>
+                    <ul class="footer-ul">
+                        <li><a href="/">HOME</a></li>
+                        <li><a href="/signature-collection">SIGNATURE COLLECTION</a></li>
+                        <li><a href="/">LIFESTYLE</a></li>
+                        <li><a href="/about">ABOUT US</a></li>
+                        <li><a href="/">SHOP MY LOOK</a></li>
+                        <li><a href="/contacts">CONTACTS</a></li>
+                        <li><a href="/work-with-us">WORK WITH US</a></li>
+                    </ul>
                 </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h6 class="title">Instagram</h6>
-                        <hr>
-                        <div class="instafeed" data-user-name="mrareweb">
-                            <ul></ul>
-                        </div>
-                    </div>
-                    <!--end of widget-->
-                </div>
-            </div>
-            <!--end of row-->
-            <div class="row">
-                <div class="col-sm-6">
-                    <span class="sub">&copy; Copyright 2016 - Medium Rare</span>
-                </div>
-                <div class="col-sm-6 text-right">
-                    <ul class="list-inline social-list">
-                        <li>
-                            <a href="#">
-                                <i class="ti-twitter-alt"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ti-facebook"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ti-dribbble"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ti-vimeo-alt"></i>
-                            </a>
-                        </li>
+
+                <div class="col-md-3 col-sm-6 paddingtop-bottom">
+                    <h6 class="heading7">&ensp;</h6>
+                    <ul class="footer-ul">
+                        <li><a target="_blank" href="https://www.facebook.com/lucednj/"><i
+                                    class="ti-facebook" aria-hidden="true"></i> Facebook</a></li>
+                        <li><a target="_blank" href="https://www.youtube.com/channel/UCeB2E50tZZ651Z8Dg3kiEJA"><i
+                                    class="ti-youtube" aria-hidden="true"></i>Youtube</a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/lucednj/"><i
+                                    class="ti-instagram" aria-hidden="true"></i> Instagram</a></li>
                     </ul>
                 </div>
             </div>
         </div>
-        <!--end of container-->
-        <a class="btn btn-sm fade-half back-to-top inner-link" href="#top">Top</a>
     </footer>
+    <!--footer start from here-->
+
+    <div class="copyright">
+        <div class="container">
+            <div class="col-md-6">
+                <p>© <?php echo date('Y') ?> - All Rights Reserved by LUCE D NJ</p>
+            </div>
+        </div>
+    </div>
+
 </div>
 
 <script src="js/jquery.min.js"></script>
