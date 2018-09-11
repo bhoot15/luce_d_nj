@@ -42,7 +42,7 @@
     content: "";
     position: absolute;
     top: calc(100% - 0.125rem);
-    border-bottom: 0.125rem solid #2BBBAD;
+    border-bottom: 0.125rem solid #2BBBAD !important;
     left: 50%;
     right: 50%;
     transition: all 0.5s ease;
@@ -99,6 +99,8 @@
     -moz-transform: translate3d(0, 10px, 0);
     visibility: hidden;
     margin-top: -1px;
+    font-family: "Oswald",sans-serif, Semibold !important;
+    ;
 }
 
 .height {

@@ -1,7 +1,67 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="bg-secondary">
+<section class="bg-light">
+    <div class="nav-container">
+        <a id="top"></a>
+        <nav class="nav-centered absolute transparent hover-underline-menu">
+            <!--<div class="text-center">
+                <a href="index.html">
+                    <img class="logo logo-light" alt="Foundry" src="img/logo-light.png" />
+                    <img class="logo logo-dark" alt="Foundry" src="img/logo-dark.png" />
+                </a>
+            </div>-->
+            <div class="nav-bar text-center">
+                <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
+                    <i class="ti-menu"></i>
+                </div>
+                <div class="module-group text-left">
+                    <div class="module left">
+                        <ul class="menu align-center">
+                            <li class="fa-li">
+                                <a href="/">
+                                    Home
+                                </a>
+                            </li>
+                            <li class="fa-li">
+                                <a href="/signature-collection">
+                                    Signature Collection
+                                </a>
+                            </li>
+                            <li class="fa-li">
+                                <a href="/">
+                                    Lifestyle
+                                </a>
+                            </li>
+                            <li class="fa-li">
+                                <a href="/about">
+                                    About Us
+                                </a>
+                            </li>
+                            <li class="fa-li">
+                                <a href="/">
+                                    Shop My Look
+                                </a>
+                            </li>
+                            <li class="fa-li">
+                                <a href="/contacts">
+                                    Contacts
+                                </a>
+                            </li>
+                            <li class="fa-li">
+                                <a href="/work-with-us">
+                                    Work With Us
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--end of menu module-->
+                </div>
+                <!--end of module group-->
+            </div>
+        </nav>
+    </div>
+
     <div class="container">
         <div class="row mb64 mb-xs-24">
             <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
@@ -347,7 +407,7 @@
                     <div class="container v-align-transform">
                         <div class="row">
                             <div class="col-sm-10 col-sm-offset-1 text-center">
-<!--                                <h2 class="btn btn-lg">BLACK GOLDEN MUSING</h2>-->
+                                <!--                                <h2 class="btn btn-lg">BLACK GOLDEN MUSING</h2>-->
                                 <a class="btn btn-lg" href="#">BLACK GOLDEN MUSING</a>
                             </div>
                         </div>
@@ -362,7 +422,7 @@
                     <div class="container v-align-transform">
                         <div class="row">
                             <div class="col-sm-offset-1 text-center col-sm-10">
-<!--                                <h4 class="btn btn-lg">BRUNCH AT BAE'S PLACE</h4>-->
+                                <!--                                <h4 class="btn btn-lg">BRUNCH AT BAE'S PLACE</h4>-->
                                 <a class="btn btn-lg" href="#">BRUNCH AT BAE'S PLACE</a>
                             </div>
                         </div>
@@ -378,7 +438,7 @@
                     <div class="container v-align-transform">
                         <div class="row">
                             <div class="col-sm-offset-1 text-center col-sm-10">
-<!--                                <h2 class="btn">CASUAL EVENING DATE WITH FLORAL MOTIF</h2>-->
+                                <!--                                <h2 class="btn">CASUAL EVENING DATE WITH FLORAL MOTIF</h2>-->
                                 <a class="btn btn-lg" href="#">CASUAL EVENING DATE WITH FLORAL MOTIF</a>
                             </div>
                         </div>
@@ -394,7 +454,7 @@
                     <div class="container v-align-transform">
                         <div class="row">
                             <div class="col-sm-offset-1 text-center col-sm-10">
-<!--                                <h4 class="bold mb40 mb-xs-16">CHOKER COLD SHOULDER IS NEW LOVE AFFAIR</h4>-->
+                                <!--                                <h4 class="bold mb40 mb-xs-16">CHOKER COLD SHOULDER IS NEW LOVE AFFAIR</h4>-->
                                 <a class="btn btn-lg" href="#">CHOKER COLD SHOULDER IS NEW LOVE AFFAIR</a>
                             </div>
                         </div>
