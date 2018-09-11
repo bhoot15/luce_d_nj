@@ -188,32 +188,32 @@
 </div>
 
 <div class="main-container">
-    <section class="fullscreen image-bg parallax">
-        <div class="background-image-holder">
-            <img alt="image" class="background-image" src="img/misty/logo_big.png"/>
-        </div>
-        <div class="container v-align-transform">
-            <div class="row">
-                <div class="col-sm-8 col-md-6 mb24">
-                    <h6 class="uppercase"></h6>
-                </div>
-                <div class="col-sm-12">
-                    <div class="modal-container pull-left">
-                        <div class="play-button btn-modal inline"></div>
-                        <div class="foundry_modal no-bg">
-
-                        </div>
-                    </div>
-                    <!--end of modal video-->
-                    <p class="lead inline-block p32 p0-xs pt8">
-
-                    </p>
-                </div>
-            </div>
-            <!--end of row-->
-        </div>
-        <!--end of container-->
-    </section>
+<!--    <section class="fullscreen image-bg parallax">-->
+<!--        <div class="background-image-holder">-->
+<!--            <img alt="image" class="background-image" src="img/misty/logo_big.png"/>-->
+<!--        </div>-->
+<!--        <div class="container v-align-transform">-->
+<!--            <div class="row">-->
+<!--                <div class="col-sm-8 col-md-6 mb24">-->
+<!--                    <h6 class="uppercase"></h6>-->
+<!--                </div>-->
+<!--                <div class="col-sm-12">-->
+<!--                    <div class="modal-container pull-left">-->
+<!--                        <div class="play-button btn-modal inline"></div>-->
+<!--                        <div class="foundry_modal no-bg">-->
+<!---->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <!--end of modal video-->
+<!--                    <p class="lead inline-block p32 p0-xs pt8">-->
+<!---->
+<!--                    </p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <!--end of row-->
+<!--        </div>-->
+<!--        <!--end of container-->
+<!--    </section>-->
     @yield('content')
     <!--footer start from here-->
     <footer>
