@@ -99,12 +99,20 @@
     -moz-transform: translate3d(0, 10px, 0);
     visibility: hidden;
     margin-top: -1px;
-    font-family: "Oswald",sans-serif, Semibold !important;
-    ;
+    margin-bottom: 10px;
+    font-family: "Oswald", sans-serif, Semibold !important;;
 }
 
 .height {
     margin-top: 30px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: "Oswald", sans-serif, Semibold !important;
+}
+
+p{
+    font-size: 14px;
 }
 
 
