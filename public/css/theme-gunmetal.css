@@ -3695,7 +3695,7 @@ img {
 .inner-title:hover:before {
     transform: scale(1.2);
     -webkit-transform: scale(1.2);
-    background: #292929;
+    background: #ea; /*changed by xubi*/
 }
 
 .inner-title .title {

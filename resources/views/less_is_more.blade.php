@@ -73,7 +73,6 @@
             </div>
         </nav>
     </div>
-
     <div class="container">
         <div class="row mb64 mb-xs-24">
             <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">

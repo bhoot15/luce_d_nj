@@ -75,81 +75,36 @@
     </div>
     <div class="container">
         <div class="row mb64 mb-xs-24">
-            <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
-                <h3 class="uppercase">Signature Collection</h3>
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <a href="#">
+                    <h3 class="uppercase bold">Signature Collection</h3>
+                </a>
+                <!--                <h6 class="uppercase">Subscribe Us For Updates</h6>-->
             </div>
         </div>
-        <!--end of row-->
         <div class="row">
             <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/1.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Hanging Ten</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        <a href="#">NJ Misty</a>
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
+                <div class="image-tile inner-title title-center text-center">
+                    <a href="/less-is-more">
+                        <img class="image-border" alt="Pic" src="img/less_is_more/6.jpeg"/>
+                        <div class="title">
+                            <h4 class="uppercase mb0 btn btn-lg">LESS IS MORE</h4>
+                        </div>
+                    </a>
+                </div>
             </div>
-            <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/scarves/2.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Round The Twist</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        <a href="#">NJ Misty</a>
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
-            </div>
-            <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/3.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Road Trippin'</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        <a href="#">NJ Misty</a>
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
+            <div class="col-sm-8">
+                <div class="image-tile inner-title title-center text-center">
+                    <a href="/luxury-scarves">
+                        <img class="image-border" alt="Pic"
+                             src="img/scarves/6.jpeg"/>
+                        <div class="title">
+                            <h4 class="uppercase mb0 btn btn-lg">LUXURY SCARVES</h4>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
-        <!--end of row-->
     </div>
-    <!--end of container-->
 </section>
 @endsection
