@@ -83,7 +83,7 @@
                 a recent graduate, studying or just share a huge passion in fashion and lifestyle, we’d love to hear
                 from you.<br><br>
 
-                <h5><b>Write to us at: </b> <u>info@aienjamir.com</u></h5>
+                <h5><b>Write to us at: </b> <u>info@lucednj.com</u></h5>
                 <!--                <h4 class="uppercase">Get expert insights straight to your e-mail</h4>-->
                 <h4 class="bold">OR USE THE FORM HERE TO SEND US YOUR MESSAGE</h4>
             </div>

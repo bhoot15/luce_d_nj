@@ -20,19 +20,11 @@
         footer {
             background-color: #0c1a1e;
             min-height: 350px;
-            font-family: 'Open Sans', sans-serif;
+            font-family: "Oswald", sans-serif, Semibold !important;
         }
 
-        .footerleft {
-            margin-top: 50px;
-            padding: 0 36px;
-        }
-
-        .logofooter {
-            margin-bottom: 10px;
-            font-size: 25px;
+        .footerHeader {
             color: #fff;
-            font-weight: 700;
         }
 
         .footerleft p {
@@ -45,16 +37,6 @@
         .footerleft p i {
             width: 20px;
             color: #999;
-        }
-
-        .paddingtop-bottom {
-            margin-top: 50px;
-        }
-
-        .footer-ul {
-            list-style-type: none;
-            padding-left: 0px;
-            margin-left: 2px;
         }
 
         .footer-ul li {
@@ -76,27 +58,10 @@
             color: #e1bee7;
         }
 
-        .social:hover {
-            -webkit-transform: scale(1.1);
-            -moz-transform: scale(1.1);
-            -o-transform: scale(1.1);
-        }
-
-        .icon-ul {
-            list-style-type: none !important;
-            margin: 0px;
-            padding: 0px;
-        }
-
         .icon-ul li {
             line-height: 75px;
             width: 100%;
             float: left;
-        }
-
-        .icon {
-            float: left;
-            margin-right: 5px;
         }
 
         .copyright {
@@ -111,13 +76,6 @@
             margin-bottom: 0px;
         }
 
-        .heading7 {
-            font-size: 21px;
-            font-weight: 700;
-            color: #d9d6d6;
-            margin-bottom: 22px;
-        }
-
         .post p {
             font-size: 12px;
             color: #FFF;
@@ -127,12 +85,6 @@
         .post p span {
             display: block;
             color: #8f8f8f;
-        }
-
-        .bottom_ul {
-            list-style-type: none;
-            float: right;
-            margin-bottom: 0px;
         }
 
         .bottom_ul li {
@@ -174,7 +126,7 @@
         <!--end of container-->
     </section>
     @yield('content')
-    <footer>
+    <!--<footer>
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-6 footerleft ">
@@ -220,9 +172,72 @@
                 </div>
             </div>
         </div>
+    </footer>-->
+
+    <footer>
+        <div class="container-fluid text-center">
+            <div class="col-md-4">
+                <h5 class="uppercase footerHeader bold">Social ECO</h5>
+                <br>
+                <div class="row text-center">
+                    <a href="https://www.instagram.com/lucednj/" target="_blank">
+                        <img style="margin: 0 10px 20px;"
+                             src="http://aienjamir.com/assets/uploads/2015/10/instagram-light.png"
+                             width="42px">
+                    </a>
+                    <a
+                        href="https://www.facebook.com/lucednj/" target="_blank"><img style="margin: 0 10px 20px;"
+                                                                                      src="http://aienjamir.com/assets/uploads/2015/10/facebook-light.png"
+                                                                                      width="42px">
+                    </a>
+                    <a
+                        href="https://twitter.com/njmisty" target="_blank"><img style="margin: 0 10px 20px;"
+                                                                                src="http://aienjamir.com/assets/uploads/2015/10/twitter-light.png"
+                                                                                width="42px">
+                    </a>
+                    <a href="https://snapchat.com/add/jamiraien" target="_blank">
+                        <img style="margin: 0 10px 20px;"
+                             src="http://aienjamir.com/assets/uploads/2015/10/snapchat-light.png"
+                             width="42px">
+                    </a>
+                    <a
+                        href="https://www.youtube.com/channel/UCeB2E50tZZ651Z8Dg3kiEJA" target="_blank"><img
+                            style="margin: 0 10px 20px;"
+                            src="http://aienjamir.com/assets/uploads/2015/10/youtube-light.png" width="42px">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h5 class="uppercase footerHeader bold">Search</h5>
+                <br>
+                <div class="row">
+                    <div class="input-with-label text-left">
+                        <input type="text"/>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="logofooter"><img src="img/misty/logo.jpg" height="200px" width="auto"></div>
+                </div>
+                <div class="row">
+                    <br>
+                    <p style="letter-spacing:3px; font-family: " Oswald", sans-serif, Semibold;">TERMS OF USE /
+                    PRIVACY</p>
+                    <p style="letter-spacing:3px; font-family: " Oswald", sans-serif,
+                    Semibold;">© <?php echo date('Y') ?> - All Rights Reserved by <a href="/">luce d nj</a></p>
+                    <p style="letter-spacing: 3px; font-family: " Oswald", sans-serif, Semibold;">website developed by
+                    <a href="http://xubi.artefactplus.com">zobair</a></p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h5 class="uppercase footerHeader bold">For Advertisements</h5>
+                <br>
+                <a class="btn btn-white mb32" href="#">info@lucednj.com</a>
+            </div>
+
+        </div>
     </footer>
 
-    <!--footer start from here-->
+    <!--footer ends here-->
 
     <div class="copyright">
         <div class="container">

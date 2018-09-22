@@ -23,9 +23,8 @@
             font-family: 'Open Sans', sans-serif;
         }
 
-        .footerleft {
-            margin-top: 50px;
-            padding: 0 36px;
+        .footerHeader {
+            color: #fff;
         }
 
         .logofooter {
@@ -45,16 +44,6 @@
         .footerleft p i {
             width: 20px;
             color: #999;
-        }
-
-        .paddingtop-bottom {
-            margin-top: 50px;
-        }
-
-        .footer-ul {
-            list-style-type: none;
-            padding-left: 0px;
-            margin-left: 2px;
         }
 
         .footer-ul li {
@@ -94,13 +83,6 @@
             margin-bottom: 0px;
         }
 
-        .heading7 {
-            font-size: 21px;
-            font-weight: 700;
-            color: #d9d6d6;
-            margin-bottom: 22px;
-        }
-
         .post p {
             font-size: 12px;
             color: #FFF;
@@ -137,53 +119,69 @@
     @yield('content')
     <!--footer start from here-->
     <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-sm-6 footerleft ">
-                    <br>
-                    <div class="logofooter"><img src="img/misty/logo.jpg" height="200px" width="auto"></div>
-                    <br>
-
-                </div>
-                <div class="col-md-3 col-sm-6 paddingtop-bottom">
-                    <h6 class="heading7">ADDRESS</h6>
-                    <div class="post">
-                        <p><i class="fa fa-map-marker" aria-hidden="true"></i> LUCE D NJ<br>Dhaka, Bangladesh</p>
-                        <p><i class="fa fa-phone" aria-hidden="true"></i> Phone: +880 – 1727 – 521 – 919</p>
-                        <p><i class="fa fa-envelope" aria-hidden="true"></i> E-mail : <a target="_top"
-                                                                                         href="mailto:info@nexeltinc.com"
-                                                                                         style="color: inherit">lightofnj@gmail.com</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="col-md-2 col-sm-6 paddingtop-bottom">
-                    <h6 class="heading7">GENERAL LINKS</h6>
-                    <ul class="footer-ul">
-                        <li><a href="/">HOME</a></li>
-                        <li><a href="/signature-collection">SIGNATURE COLLECTION</a></li>
-                        <li><a href="/">LIFESTYLE</a></li>
-                        <li><a href="/about">ABOUT US</a></li>
-                        <li><a href="/">SHOP MY LOOK</a></li>
-                        <li><a href="/contacts">CONTACTS</a></li>
-                        <li><a href="/work-with-us">WORK WITH US</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-md-3 col-sm-6 paddingtop-bottom">
-                    <h6 class="heading7">&ensp;</h6>
-                    <ul class="footer-ul">
-                        <li><a target="_blank" href="https://www.facebook.com/lucednj/"><i
-                                    class="ti-facebook" aria-hidden="true"></i> Facebook</a></li>
-                        <li><a target="_blank" href="https://www.youtube.com/channel/UCeB2E50tZZ651Z8Dg3kiEJA"><i
-                                    class="ti-youtube" aria-hidden="true"></i>Youtube</a></li>
-                        <li><a target="_blank" href="https://www.instagram.com/lucednj/"><i
-                                    class="ti-instagram" aria-hidden="true"></i> Instagram</a></li>
-                    </ul>
+        <div class="container-fluid text-center">
+            <div class="col-md-4">
+                <h5 class="uppercase footerHeader bold">Social ECO</h5>
+                <br>
+                <div class="row text-center">
+                    <a href="https://www.instagram.com/lucednj/" target="_blank">
+                        <img style="margin: 0 10px 20px;"
+                             src="http://aienjamir.com/assets/uploads/2015/10/instagram-light.png"
+                             width="42px">
+                    </a>
+                    <a
+                        href="https://www.facebook.com/lucednj/" target="_blank"><img style="margin: 0 10px 20px;"
+                                                                                      src="http://aienjamir.com/assets/uploads/2015/10/facebook-light.png"
+                                                                                      width="42px">
+                    </a>
+                    <a
+                        href="https://twitter.com/njmisty" target="_blank"><img style="margin: 0 10px 20px;"
+                                                                                src="http://aienjamir.com/assets/uploads/2015/10/twitter-light.png"
+                                                                                width="42px">
+                    </a>
+                    <a href="https://snapchat.com/add/jamiraien" target="_blank">
+                        <img style="margin: 0 10px 20px;"
+                             src="http://aienjamir.com/assets/uploads/2015/10/snapchat-light.png"
+                             width="42px">
+                    </a>
+                    <a
+                        href="https://www.youtube.com/channel/UCeB2E50tZZ651Z8Dg3kiEJA" target="_blank"><img
+                            style="margin: 0 10px 20px;"
+                            src="http://aienjamir.com/assets/uploads/2015/10/youtube-light.png" width="42px">
+                    </a>
                 </div>
             </div>
+            <div class="col-md-4">
+                <h5 class="uppercase footerHeader bold">Search</h5>
+                <br>
+                <div class="row">
+                    <div class="input-with-label text-left">
+                        <input type="text"/>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="logofooter"><img src="img/misty/logo.jpg" height="200px" width="auto"></div>
+                </div>
+                <div class="row">
+                    <br>
+                    <p style="letter-spacing:3px; font-family: " Oswald", sans-serif, Semibold;">TERMS OF USE /
+                    PRIVACY</p>
+                    <p style="letter-spacing:3px; font-family: " Oswald", sans-serif,
+                    Semibold;">© <?php echo date('Y') ?> - All Rights Reserved by <a href="/">luce d nj</a></p>
+                    <p style="letter-spacing: 3px; font-family: " Oswald", sans-serif, Semibold;">website developed by
+                    <a href="http://xubi.artefactplus.com">zobair</a></p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h5 class="uppercase footerHeader bold">For Advertisements</h5>
+                <br>
+                <a class="btn btn-white mb32" href="#">info@lucednj.com</a>
+            </div>
+
         </div>
     </footer>
-    <!--footer start from here-->
+
+    <!--footer ends from here-->
 
     <div class="copyright">
         <div class="container">

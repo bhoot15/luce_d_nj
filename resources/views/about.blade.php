@@ -76,9 +76,15 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-sm-12">
-                <h4 class="uppercase">ABOUT US</h4>
-                <hr>
+            <h4 class="uppercase bold">ABOUT US</h4>
+            <hr>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <img class="img-thumbnail" style="height: 200px; width: 200px;" src="img/arch2.jpg">
+            </div>
+            <div class="col-sm-10">
+
                 <p>
                     LuceD NJ. is tied in with making your own identical proclamation. Influencing you to have confidence
                     in yourself and helping individuals setting up their own trends.<br>
@@ -92,12 +98,15 @@
                     splendorous way for the readers and viewers to enjoy it truly
                     Whether you want the latest fashion trends or are in lookout for the style and beauty inspiration,
                     you get it here in a majestic way.<br>
-                    LuceD NJís very own, N. J. Misty might be a designer but firstly sheís a Style-preneur. From
-                    starting her online page in Facebook and Instagram called 'Luce D NJ' to live tv appearances, she
-                    does it all for the love of style and fashion that she has.<br><br><br>
-
                 </p>
             </div>
+        </div>
+        <div class="row">
+            <p>
+                LuceD NJ ís very own, N. J. Misty might be a designer but firstly sheís a Style-preneur. From
+                starting her online page in Facebook and Instagram called 'Luce D NJ' to live tv appearances, she
+                does it all for the love of style and fashion that she has.<br><br>
+            </p>
         </div>
         <!--end of row-->
     </div>
