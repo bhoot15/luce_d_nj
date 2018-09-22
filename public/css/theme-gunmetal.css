@@ -645,7 +645,7 @@ ul.lead li {
 }
 
 .bg-secondary {
-    background: #f8f8f8;
+    background: #f3e5f5;
 }
 
 .bg-white {
@@ -675,7 +675,7 @@ ul.lead li {
 /*!---------- 5. SECTIONS ----------*/
 section,
 footer {
-    padding: 96px 0;
+    padding: 85px 0;
     position: relative;
     overflow: hidden;
 }
@@ -743,8 +743,8 @@ footer.bg-dark li,
     height: 100%;
     top: 0;
     left: 0;
-    background: #292929;
-    opacity: 0.3;
+    background: #000;
+    opacity: 0.8;
     z-index: 2;
 }
 
@@ -2153,8 +2153,8 @@ input[type="submit"],
 button[type="submit"] {
     height: 50px;
     line-height: 48px;
-    border: 2px solid #333347;
-    background: #333347;
+    border: 2px solid #ce93d8;
+    background: #ce93d8;
     color: #fff;
     width: 100%;
     font-size: 11px;

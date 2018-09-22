@@ -75,6 +75,12 @@
     </div>
 
     <div class="container">
+        <div class="height"></div>
+        <div class="row mb64 mb-xs-24">
+            <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
+                <h3 class="bold uppercase headerLine">Contacts</h3>
+            </div>
+        </div>
         <div class="row">
             <div class="col-sm-6 col-md-5">
                 <!--<h3 class="uppercase">Get In Touch</h3>-->

@@ -74,12 +74,10 @@
         </nav>
     </div>
     <div class="container">
+        <div class="height"></div>
         <div class="row mb64 mb-xs-24">
-            <div class="col-md-8 col-md-offset-2 text-center">
-                <a href="#">
-                    <h3 class="uppercase bold">Signature Collection</h3>
-                </a>
-                <!--                <h6 class="uppercase">Subscribe Us For Updates</h6>-->
+            <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
+                <h3 class="bold uppercase headerLine">Signature Collection</h3>
             </div>
         </div>
         <div class="row">

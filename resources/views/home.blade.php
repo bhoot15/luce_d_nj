@@ -62,10 +62,12 @@
         </nav>
     </div>
 
-    <section>
+    <section class="bg-light">
         <div class="container">
-            <div class="row mb80 mb-xs-0 text-center">
-                <h3 class="uppercase bold">NJ's LOOKBOOK</h3>
+            <div class="row mb64 mb-xs-24">
+                <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
+                    <h3 class="bold uppercase headerLine">NJ's Lookbook</h3>
+                </div>
             </div>
             <!--end of row-->
             <div class="row v-align-children">
@@ -162,7 +164,7 @@
         <div id="myCarousel" class="row carousel slide" data-ride="carousel">
             <div class="row mb64 mb-xs-24">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
-                    <h3 class="bold uppercase">Instagram</h3>
+                    <h3 class="bold uppercase headerLine">Instagram</h3>
                 </div>
             </div>
             <!-- Wrapper for slides  -->
@@ -322,7 +324,7 @@
     <div class="row mb64 mb-xs-24">
         <div class="col-md-8 col-md-offset-2 text-center">
             <a href="#">
-                <h3 class="uppercase  mb16 bold">Light of Fashion</h3>
+                <h3 class="uppercase  mb16 bold headerLine">Light of Fashion</h3>
             </a>
             <!--                <h6 class="uppercase">Subscribe Us For Updates</h6>-->
         </div>
@@ -575,20 +577,20 @@
 
 @endsection
 <div class="foundry_modal text-center image-bg overlay"
-     data-time-delay="3000" data-cookie="signup-form-dismissed">
-    <div class="background-image-holder">
-        <img alt="Background" class="background-image" src="img/capital-t-5.jpg"/>
-    </div>
-    <h3 class="uppercase bold italic">DON'T MISS OUT!</h3>
-    <h6 class="uppercase">SIGN UP HERE TO RECEIVE OUR EXCLUSIVE CONTENT & PROMOS!</h6>
-    <form class="form-horizontal" method="POST" action="/contact">
-        {{ csrf_field() }}
-        <input class="validate-required" type="text" id="name" placeholder="Your name" name="name"
-               required/>
-        <input type="text" class="validate-required validate-email" id="email"
-               placeholder="john@example.com" name="email" required/>
-        <textarea class="validate-required" rows="4" id="message" placeholder="Type your messages here"
-                  name="message" required></textarea>
-        <button type="submit">Send Message</button>
-    </form>
+     data-time-delay="3000" <!--data-cookie="signup-form-dismissed"-->>
+<div class="background-image-holder">
+    <img alt="Background" class="background-image" src="img/capital-t-5.jpg"/>
+</div>
+<h3 class="uppercase bold italic">DON'T MISS OUT!</h3>
+<h6 class="uppercase">SIGN UP HERE TO RECEIVE OUR EXCLUSIVE CONTENT & PROMOS!</h6>
+<form class="form-horizontal" method="POST" action="/contact">
+    {{ csrf_field() }}
+    <input class="validate-required" type="text" id="name" placeholder="Your name" name="name"
+           required/>
+    <input type="text" class="validate-required validate-email" id="email"
+           placeholder="john@example.com" name="email" required/>
+    <textarea class="validate-required" rows="4" id="message" placeholder="Type your messages here"
+              name="message" required></textarea>
+    <button type="submit">Send Message</button>
+</form>
 </div>

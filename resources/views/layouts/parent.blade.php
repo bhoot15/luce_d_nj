@@ -135,11 +135,11 @@
                                                                                       width="42px">
                     </a>
                     <a
-                        href="https://twitter.com/njmisty" target="_blank"><img style="margin: 0 10px 20px;"
+                        href="https://twitter.com/lucednj" target="_blank"><img style="margin: 0 10px 20px;"
                                                                                 src="http://aienjamir.com/assets/uploads/2015/10/twitter-light.png"
                                                                                 width="42px">
                     </a>
-                    <a href="https://snapchat.com/add/jamiraien" target="_blank">
+                    <a href="https://snapchat.com/add/lucednj" target="_blank">
                         <img style="margin: 0 10px 20px;"
                              src="http://aienjamir.com/assets/uploads/2015/10/snapchat-light.png"
                              width="42px">
