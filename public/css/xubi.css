@@ -20,6 +20,12 @@
 a, a:visited, a:focus, a:active, a:hover {
     text-decoration: none;
     outline: none;
+    color: #333347 !important;
+}
+
+.a, .a:visited, .a:focus, .a:active, .a:hover{
+    text-decoration: none;
+    outline: none;
     color: #fff !important;
 }
 
@@ -81,8 +87,8 @@ a, a:visited, a:focus, a:active, a:hover {
 }
 
 .bg-light .btn {
-    border-color: #fff;
-    color: #fff;
+    border-color: #000;
+    color: #000 !important;
 }
 
 .bg-light .btn:visited,

@@ -5,12 +5,7 @@
     <div class="nav-container">
         <a id="top"></a>
         <nav class="nav-centered absolute transparent hover-underline-menu" data-menu-underline-from-center>
-            <!--<div class="text-center">
-                <a href="index.html">
-                    <img class="logo logo-light" alt="Foundry" src="img/logo-light.png" />
-                    <img class="logo logo-dark" alt="Foundry" src="img/logo-dark.png" />
-                </a>
-            </div>-->
+
             <div class="nav-bar text-center">
                 <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
                     <i class="ti-menu"></i>
@@ -87,7 +82,7 @@
                     <img alt="Pic" class="mb24" src="img/scarves/1.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Hanging Ten</h4>
+                    <h4 class="mb8">The Fallen Stars: Luxury Scarves</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -100,16 +95,51 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    This collection of luxury scarves empowers children with intellectual disabilities by indulging with
+                    them and creating art pieces which is then reproduced onto clothing.
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>The Fallen Stars: Luxury Scarves</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                This collection of luxury scarves empowers children with intellectual disabilities by
+                                indulging with them and creating art pieces which is then reproduced onto clothing.
+                                Each of the scarf pieces gives them pride of ownership and funds their aggregate
+                                development.
+                            </p>
+
+                            <p>
+                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+
+                                * READY TO PURCHASE <br>
+
+                                * TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
+                                THIS STYLE IS EXCLUSIVELY AVAILABLE IN ONLY 10 PIECES FOR PURCHASE
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
                     <img alt="Pic" class="mb24" src="img/scarves/2.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Round The Twist</h4>
+                    <h4 class="mb8">The Fallen Stars: Luxury Scarves</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -122,16 +152,51 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    This collection of luxury scarves empowers children with intellectual disabilities by indulging with
+                    them and creating art pieces which is then reproduced onto clothing.
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>The Fallen Stars: Luxury Scarves</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                This collection of luxury scarves empowers children with intellectual disabilities by
+                                indulging with them and creating art pieces which is then reproduced onto clothing.
+                                Each of the scarf pieces gives them pride of ownership and funds their aggregate
+                                development.
+                            </p>
+
+                            <p>
+                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+
+                                * READY TO PURCHASE <br>
+
+                                * TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
+                                THIS STYLE IS EXCLUSIVELY AVAILABLE IN ONLY 10 PIECES FOR PURCHASE
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
                     <img alt="Pic" class="mb24" src="img/scarves/3.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Road Trippin'</h4>
+                    <h4 class="mb8">The Fallen Stars: Luxury Scarves</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -144,9 +209,44 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    This collection of luxury scarves empowers children with intellectual disabilities by indulging with
+                    them and creating art pieces which is then reproduced onto clothing.
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>The Fallen Stars: Luxury Scarves</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                This collection of luxury scarves empowers children with intellectual disabilities by
+                                indulging with them and creating art pieces which is then reproduced onto clothing.
+                                Each of the scarf pieces gives them pride of ownership and funds their aggregate
+                                development.
+                            </p>
+
+                            <p>
+                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+
+                                * READY TO PURCHASE <br>
+
+                                * TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
+                                THIS STYLE IS EXCLUSIVELY AVAILABLE IN ONLY 10 PIECES FOR PURCHASE
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
         </div>
         <div class="height"></div>
@@ -157,7 +257,7 @@
                     <img alt="Pic" class="mb24" src="img/scarves/4.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Hanging Ten</h4>
+                    <h4 class="mb8">The Fallen Stars: Luxury Scarves</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -170,16 +270,51 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    This collection of luxury scarves empowers children with intellectual disabilities by indulging with
+                    them and creating art pieces which is then reproduced onto clothing.
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>The Fallen Stars: Luxury Scarves</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                This collection of luxury scarves empowers children with intellectual disabilities by
+                                indulging with them and creating art pieces which is then reproduced onto clothing.
+                                Each of the scarf pieces gives them pride of ownership and funds their aggregate
+                                development.
+                            </p>
+
+                            <p>
+                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+
+                                * READY TO PURCHASE <br>
+
+                                * TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
+                                THIS STYLE IS EXCLUSIVELY AVAILABLE IN ONLY 10 PIECES FOR PURCHASE
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
                     <img alt="Pic" class="mb24" src="img/scarves/5.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Round The Twist</h4>
+                    <h4 class="mb8">The Fallen Stars: Luxury Scarves</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -192,16 +327,51 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    This collection of luxury scarves empowers children with intellectual disabilities by indulging with
+                    them and creating art pieces which is then reproduced onto clothing.
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>The Fallen Stars: Luxury Scarves</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                This collection of luxury scarves empowers children with intellectual disabilities by
+                                indulging with them and creating art pieces which is then reproduced onto clothing.
+                                Each of the scarf pieces gives them pride of ownership and funds their aggregate
+                                development.
+                            </p>
+
+                            <p>
+                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+
+                                * READY TO PURCHASE <br>
+
+                                * TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
+                                THIS STYLE IS EXCLUSIVELY AVAILABLE IN ONLY 10 PIECES FOR PURCHASE
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
                     <img alt="Pic" class="mb24" src="img/scarves/6.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Road Trippin'</h4>
+                    <h4 class="mb8">The Fallen Stars: Luxury Scarves</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -214,9 +384,44 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    This collection of luxury scarves empowers children with intellectual disabilities by indulging with
+                    them and creating art pieces which is then reproduced onto clothing.
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>The Fallen Stars: Luxury Scarves</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                This collection of luxury scarves empowers children with intellectual disabilities by
+                                indulging with them and creating art pieces which is then reproduced onto clothing.
+                                Each of the scarf pieces gives them pride of ownership and funds their aggregate
+                                development.
+                            </p>
+
+                            <p>
+                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+
+                                * READY TO PURCHASE <br>
+
+                                * TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
+                                THIS STYLE IS EXCLUSIVELY AVAILABLE IN ONLY 10 PIECES FOR PURCHASE
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
         </div>
         <div class="height"></div>

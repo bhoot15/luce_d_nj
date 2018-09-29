@@ -91,7 +91,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -103,6 +103,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
@@ -113,7 +134,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -125,6 +146,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
@@ -135,7 +177,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -147,6 +189,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
         </div>
         <div class="height"></div>
@@ -161,7 +224,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -173,6 +236,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
@@ -183,7 +267,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -195,6 +279,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
@@ -205,7 +310,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -217,6 +322,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
         </div>
         <div class="height"></div>
@@ -231,7 +357,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -243,6 +369,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
@@ -253,7 +400,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -265,6 +412,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
@@ -275,7 +443,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -287,6 +455,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
         </div>
         <div class="height"></div>
@@ -301,7 +490,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -313,6 +502,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
@@ -323,7 +533,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -335,6 +545,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
@@ -345,7 +576,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -357,6 +588,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
         </div>
         <div class="height"></div>
@@ -371,7 +623,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -383,6 +635,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
             <div class="col-sm-4">
                 <a href="#">
@@ -393,7 +666,7 @@
                 </a>
                 <ul class="list-inline mb16">
                     <li>
-                        <a href="#">NJ Misty</a>
+                        NJ Misty
                     </li>
                     <li>
                         <a href="https://www.facebook.com/lucednj/">
@@ -405,6 +678,27 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
                     ut dui bibendum ornare vitae a enim. Sed sit amet
                 </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>Hanging Ten</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                            </p>
+
+                            <p>
+                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
             </div>
         </div>
         <div class="height"></div>
