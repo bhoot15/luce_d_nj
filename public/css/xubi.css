@@ -153,4 +153,19 @@ p {
     margin-right: -50%;
 }
 
+.carousel-control2 {
+    background: #0c1a1e !important;
+    border: 0px;
+    border-radius: 0px;
+    display: inline-block;
+    font-size: 34px;
+    font-weight: 200;
+    line-height: 18px;
+    opacity: 0.5;
+    padding: 4px 10px;
+    margin: 380px -60px 0;
+    height: 30px;
+    width: 30px;
+}
+
 

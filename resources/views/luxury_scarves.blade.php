@@ -115,7 +115,7 @@
                             </p>
 
                             <p>
-                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+                                * STYLE NO: 004 <br>
 
                                 * READY TO PURCHASE <br>
 
@@ -172,7 +172,7 @@
                             </p>
 
                             <p>
-                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+                                * STYLE NO: 005<br>
 
                                 * READY TO PURCHASE <br>
 
@@ -229,7 +229,7 @@
                             </p>
 
                             <p>
-                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+                                * STYLE NO: 003 <br>
 
                                 * READY TO PURCHASE <br>
 
@@ -290,7 +290,7 @@
                             </p>
 
                             <p>
-                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+                                * STYLE NO: 001<br>
 
                                 * READY TO PURCHASE <br>
 
@@ -347,7 +347,7 @@
                             </p>
 
                             <p>
-                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
+                                * STYLE NO: 002<br>
 
                                 * READY TO PURCHASE <br>
 
@@ -384,7 +384,8 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    This collection of luxury scarves empowers children with intellectual disabilities by indulging with
+                    These collections of luxury scarves empowers children with intellectual disabilities by indulging
+                    with
                     them and creating art pieces which is then reproduced onto clothing.
                 </p>
                 <div class="height"></div>
@@ -397,15 +398,13 @@
                             <h6>@njmisty</h6>
                             <hr>
                             <p>
-                                This collection of luxury scarves empowers children with intellectual disabilities by
+                                These collections of luxury scarves empowers children with intellectual disabilities by
                                 indulging with them and creating art pieces which is then reproduced onto clothing.
                                 Each of the scarf pieces gives them pride of ownership and funds their aggregate
                                 development.
                             </p>
 
                             <p>
-                                * STYLE NO: 001* / STYLE NO: 002 / STYLE NO : 003/ STYLE NO : 004/ STYLE NO: 005 <br>
-
                                 * READY TO PURCHASE <br>
 
                                 * TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
@@ -415,7 +414,6 @@
                                     href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
                                     <span class="label">THE BUYER’s GUIDELINE</span>
                                 </a> <br><br>
-                                THIS STYLE IS EXCLUSIVELY AVAILABLE IN ONLY 10 PIECES FOR PURCHASE
                             </p>
                         </div>
 

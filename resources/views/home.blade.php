@@ -1033,7 +1033,7 @@
             </div>
             <div class="col-sm-12 col-md-6 col-lg-6">
                 <div class="instafeed grid-gallery text-center" data-user-name="mrareweb">
-                    <iframe width="100%" height="400px" src="https://www.youtube.com/embed/TUniKcafl2c" frameborder="0"
+                    <iframe width="100%" height="400px" src="https://www.youtube.com/embed/HUvaAgLMpto" frameborder="0"
                             allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
             </div>
@@ -1055,39 +1055,43 @@
                         <div class="tab-title">
                             <span>It Fixes</span>
                         </div>
-                        <div class="tab-content">
+                        <div class="tab-content text-center">
                             <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="image-slider slider-all-controls controls-inside">
-                                        <ul class="slides">
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_fixes/1.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_fixes/2.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_fixes/3.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_fixes/4.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_fixes/5.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_fixes/6.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_fixes/7.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_fixes/8.jpg"/>
-                                            </li>
-                                        </ul>
+                                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                                    <!-- Wrapper for slides -->
+                                    <div class="carousel-inner">
+                                        <div class="item active">
+                                            <img alt="Image" src="img/light_of_fashion/it_fixes/1.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_fixes/2.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_fixes/3.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_fixes/4.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_fixes/5.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_fixes/6.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_fixes/7.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_fixes/8.jpg"/>
+                                        </div>
                                     </div>
-                                    <!--end of image slider-->
-                                </div>
+                                    <!-- Controls -->
+                                    <a class="a left carousel-control" href="#carousel-example-generic"
+                                       data-slide="prev">
+                                        ‹ </a>
+                                    <a class="a right carousel-control" href="#carousel-example-generic"
+                                       data-slide="next"> › </a>
+                                </div><!-- /carousel -->
                             </div>
                             <!--end of row-->
                         </div>
@@ -1098,37 +1102,41 @@
                         </div>
                         <div class="tab-content">
                             <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="image-slider slider-all-controls controls-inside">
-                                        <ul class="slides">
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_influences/1.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_influences/2.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_influences/3.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_influences/4.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_influences/5.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_influences/6.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_influences/7.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_influences/8.jpg"/>
-                                            </li>
-                                        </ul>
+                                <div id="carousel-example-generic2" class="carousel slide" data-ride="carousel">
+                                    <!-- Wrapper for slides -->
+                                    <div class="carousel-inner">
+                                        <div class="item active">
+                                            <img alt="Image" src="img/light_of_fashion/it_influences/1.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_influences/2.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_influences/3.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_influences/4.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_influences/5.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_influences/6.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_influences/7.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_influences/8.jpg"/>
+                                        </div>
                                     </div>
-                                    <!--end of image slider-->
-                                </div>
+                                    <!-- Controls -->
+                                    <a class="a left carousel-control" href="#carousel-example-generic2"
+                                       data-slide="prev">
+                                        ‹ </a>
+                                    <a class="a right carousel-control" href="#carousel-example-generic2"
+                                       data-slide="next"> › </a>
+                                </div><!-- /carousel -->
                             </div>
                         </div>
                     </li>
@@ -1138,40 +1146,44 @@
                         </div>
                         <div class="tab-content">
                             <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="image-slider slider-all-controls controls-inside">
-                                        <ul class="slides">
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_orients/1.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_orients/2.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_orients/3.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_orients/4.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_orients/5.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_orients/6.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_orients/7.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_orients/8.jpg"/>
-                                            </li>
-                                            <li>
-                                                <img alt="Image" src="img/light_of_fashion/it_orients/9.jpg"/>
-                                            </li>
-                                        </ul>
+                                <div id="carousel-example-generic3" class="carousel slide" data-ride="carousel">
+                                    <!-- Wrapper for slides -->
+                                    <div class="carousel-inner">
+                                        <div class="item active">
+                                            <img alt="Image" src="img/light_of_fashion/it_orients/1.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_orients/2.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_orients/3.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_orients/4.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_orients/5.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_orients/6.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_orients/7.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_orients/8.jpg"/>
+                                        </div>
+                                        <div class="item">
+                                            <img alt="Image" src="img/light_of_fashion/it_orients/9.jpg"/>
+                                        </div>
                                     </div>
-                                    <!--end of image slider-->
-                                </div>
+                                    <!-- Controls -->
+                                    <a class="a left carousel-control" href="#carousel-example-generic3"
+                                       data-slide="prev">
+                                        ‹ </a>
+                                    <a class="a right carousel-control" href="#carousel-example-generic3"
+                                       data-slide="next"> › </a>
+                                </div><!-- /carousel -->
                             </div>
                         </div>
                     </li>
@@ -2032,20 +2044,20 @@
 
 @endsection
 <div class="foundry_modal text-center image-bg overlay"
-     data-time-delay="3000" <!--data-cookie="signup-form-dismissed"-->>
-<div class="background-image-holder">
-    <img alt="Background" class="background-image" src="img/capital-t-5.jpg"/>
-</div>
-<h3 class="uppercase bold italic">DON'T MISS OUT!</h3>
-<h6 class="uppercase">SIGN UP HERE TO RECEIVE OUR EXCLUSIVE CONTENT & PROMOS!</h6>
-<form class="form-horizontal" method="POST" action="/contact">
-    {{ csrf_field() }}
-    <input class="validate-required" type="text" id="name" placeholder="Your name" name="name"
-           required/>
-    <input type="text" class="validate-required validate-email" id="email"
-           placeholder="john@example.com" name="email" required/>
-    <textarea class="validate-required" rows="4" id="message" placeholder="Type your messages here"
-              name="message" required></textarea>
-    <button type="submit">Send Message</button>
-</form>
+     data-time-delay="3000" data-cookie="signup-form-dismissed">
+    <div class="background-image-holder">
+        <img alt="Background" class="background-image" src="img/capital-t-5.jpg"/>
+    </div>
+    <h3 class="uppercase bold italic">DON'T MISS OUT!</h3>
+    <h6 class="uppercase">SIGN UP HERE TO RECEIVE OUR EXCLUSIVE CONTENT & PROMOS!</h6>
+    <form class="form-horizontal" method="POST" action="/contact">
+        {{ csrf_field() }}
+        <input class="validate-required" type="text" id="name" placeholder="Your name" name="name"
+               required/>
+        <input type="text" class="validate-required validate-email" id="email"
+               placeholder="john@example.com" name="email" required/>
+        <textarea class="validate-required" rows="4" id="message" placeholder="Type your messages here"
+                  name="message" required></textarea>
+        <button type="submit">Send Message</button>
+    </form>
 </div>
