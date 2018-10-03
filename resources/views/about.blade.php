@@ -83,7 +83,7 @@
         </div>
         <div class="row">
             <div class="col-md-2">
-                <img class="img-thumbnail" style="height: 200px; width: 200px;" src="img/arch2.jpg">
+                <img class="img-responsive" src="img/about_us.jpg">
             </div>
             <div class="col-sm-10">
 
@@ -100,7 +100,7 @@
                     LuceD NJ aims to create content and visuals to showcase all the influences and things beautiful in a
                     splendorous way for the readers and viewers to enjoy it truly
                     Whether you want the latest fashion trends or are in lookout for the style and beauty inspiration,
-                    you get it here in a majestic way.<br>
+                    you get it here in a majestic way.<br><br>
                 </p>
             </div>
         </div>

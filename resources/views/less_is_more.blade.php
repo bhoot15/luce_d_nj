@@ -84,10 +84,10 @@
         <div class="row">
             <div class="col-sm-4">
                 <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/1.jpeg"/>
+                    <img alt="Pic" class="mb24" src="img/less_is_more/party_in_blush.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Hanging Ten</h4>
+                    <h4 class="mb8">PARTY IN BLUSH</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -100,8 +100,9 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    BLUSH has been tailored with the buttery sand washed silk is a ready to go party wear with a
+                    statement of spiked sequins sleeves. Definitely it makes your aura a profound one with a twist of
+                    Traditional Dhoti on the Bottom of it.
                 </p>
                 <div class="height"></div>
                 <div class="text-left">
@@ -109,15 +110,29 @@
                         <a class="btn btn-sm btn-modal" href="#">
                             <i class="fa fa-bars"></i>SEE MORE</a>
                         <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
+                            <h4>PARTY IN BLUSH</h4>
                             <h6>@njmisty</h6>
                             <hr>
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
+                                LESS IS MORE signature RESORT collection
+                            <hr>
 
+                            BLUSH has been tailored with the buttery sand washed silk is a ready to go party wear
+                            with a statement of spiked sequins sleeves. Definitely it makes your aura a profound one
+                            with a twist of Traditional Dhoti on the Bottom of it.<br><br>
+
+                            N.B: All our Resort wears are Autographed with high end Fabrics and Accessories...
+                            exclusively available in single pieces only.<br>
+
+                            </p>
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                                TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
                             </p>
                         </div>
 
@@ -127,10 +142,10 @@
             </div>
             <div class="col-sm-4">
                 <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/2.jpeg"/>
+                    <img alt="Pic" class="mb24" src="img/less_is_more/jump_in_ash_rose.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Round The Twist</h4>
+                    <h4 class="mb8">JUMP IN ASH ROSE</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -143,8 +158,9 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    What’s your mid weekend party look ? Put on this velvety jump suit from our Resort collection and
+                    party till it drops. It’s made of fluid sand washed silk, this full sleeve jumpsuit
+                    has an elegant drapery silhouette...
                 </p>
                 <div class="height"></div>
                 <div class="text-left">
@@ -152,15 +168,29 @@
                         <a class="btn btn-sm btn-modal" href="#">
                             <i class="fa fa-bars"></i>SEE MORE</a>
                         <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
+                            <h4>JUMP IN ASH ROSE</h4>
                             <h6>@njmisty</h6>
                             <hr>
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
+                                What’s your mid weekend party look ?
+                                <br>
+                                Put on this velvety jump suit from our Resort collection and party till it drops. It’s
+                                made of fluid sand washed silk, this full sleeve jumpsuit
+                                has an elegant drapery silhouette, finished with discreet side pocket, concealed zipper
+                                in front and a long belt to tie your favourite knot.
+                                <br><br>
+                                N.B: All our Resort wears are Autographed with high end Fabrics and Accessories...
+                                exclusively available in single pieces only.<br>
 
+                            </p>
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                                TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
                             </p>
                         </div>
 
@@ -170,10 +200,10 @@
             </div>
             <div class="col-sm-4">
                 <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/3.jpeg"/>
+                    <img alt="Pic" class="mb24" src="img/less_is_more/blazing_yellow_sunshine.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Road Trippin'</h4>
+                    <h4 class="mb8">BLAZING YELLOW SUNSHINE</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -186,8 +216,11 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    Sunday is to shine loud with the blazing yellow short dress concealed with buttons &
+                    fastened
+                    with a costume fabric belt, adjoining the detailing into the waistline with a
+                    counterfeit patch of
+                    flap pocket.
                 </p>
                 <div class="height"></div>
                 <div class="text-left">
@@ -195,15 +228,30 @@
                         <a class="btn btn-sm btn-modal" href="#">
                             <i class="fa fa-bars"></i>SEE MORE</a>
                         <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
+                            <h4>BLAZING YELLOW SUNSHINE</h4>
                             <h6>@njmisty</h6>
                             <hr>
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                                LESS IS MORE signature RESORT collection
+                            <hr>
+                            Sunday is to shine loud with the blazing yellow short dress concealed with buttons &
+                            fastened
+                            with a costume fabric belt, adjoining the detailing into the waistline with a
+                            counterfeit patch of
+                            flap pocket.<br><br>
+                            N.B: All our Resort wears are Autographed with high end Fabrics and Accessories...
+                            exclusively available in single pieces only.<br>
+
                             </p>
 
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                                TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
                             </p>
                         </div>
 
@@ -217,10 +265,10 @@
         <div class="row">
             <div class="col-sm-4">
                 <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/4.jpeg"/>
+                    <img alt="Pic" class="mb24" src="img/less_is_more/butte-rumtux.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Hanging Ten</h4>
+                    <h4 class="mb8">BUTTE- RUM TUX</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -233,8 +281,10 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    PROM. COCKTAIL. BIRTHDAY. WEDDING
+                    whats your excuse to wear our Butterum Tuxedo ? An asymmetric Jacket paired up with a bottom
+                    that stressed some beautiful pleated
+                    ruffles on it.
                 </p>
                 <div class="height"></div>
                 <div class="text-left">
@@ -242,15 +292,29 @@
                         <a class="btn btn-sm btn-modal" href="#">
                             <i class="fa fa-bars"></i>SEE MORE</a>
                         <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
+                            <h4>BUTTE- RUM TUX</h4>
                             <h6>@njmisty</h6>
                             <hr>
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
+                                LESS IS MORE signature RESORT collection
+                            <hr>
+                            PROM. COCKTAIL. BIRTHDAY. WEDDING
+                            whats your excuse to wear our Butterum Tuxedo ? An asymmetric Jacket paired up with a bottom
+                            that stressed some beautiful pleated
+                            ruffles on it.<br><br>
+                            N.B: All our Resort wears are Autographed with high end Fabrics and Accessories...
+                            exclusively available in single pieces only.<br>
 
+
+                            </p>
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                                TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
                             </p>
                         </div>
 
@@ -260,10 +324,10 @@
             </div>
             <div class="col-sm-4">
                 <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/5.jpeg"/>
+                    <img alt="Pic" class="mb24" src="img/less_is_more/pretty_baby_blue.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Round The Twist</h4>
+                    <h4 class="mb8">PRETTY BABY BLUE</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -276,8 +340,9 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    Show off those legs with this pretty baby blue skirt from LUCE.
+                    The pretty combo of embellished crop top and a flared skirt made a definite statement
+                    while paired up with a classic long blazer.
                 </p>
                 <div class="height"></div>
                 <div class="text-left">
@@ -285,15 +350,30 @@
                         <a class="btn btn-sm btn-modal" href="#">
                             <i class="fa fa-bars"></i>SEE MORE</a>
                         <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
+                            <h4>PRETTY BABY BLUE</h4>
                             <h6>@njmisty</h6>
                             <hr>
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
 
+                                LESS IS MORE signature RESORT collection
+                            <hr>
+                            Show off those legs with this pretty baby blue skirt from LUCE.
+                            The pretty combo of embellished crop top and a flared skirt made a definite statement
+                            while paired up with a classic long blazer.
+                            surely BAG it!!!!!<br><br>
+                            N.B: All our Resort wears are Autographed with high end Fabrics and Accessories...
+                            exclusively available in single pieces only.<br>
+
+
+                            </p>
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                                TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
                             </p>
                         </div>
 
@@ -303,10 +383,10 @@
             </div>
             <div class="col-sm-4">
                 <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/6.jpeg"/>
+                    <img alt="Pic" class="mb24" src="img/less_is_more/sage_dressy_blazer.jpeg"/>
                 </a>
                 <a href="#">
-                    <h4 class="mb8">Road Trippin'</h4>
+                    <h4 class="mb8">SAGE DRESSY BLAZER</h4>
                 </a>
                 <ul class="list-inline mb16">
                     <li>
@@ -319,8 +399,8 @@
                     </li>
                 </ul>
                 <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
+                    Name it & Grab this awesome piece of outfit made Of velvety sandwashd silk with a twist
+                    of contrast middle sleeve Flounce.<br><br>
                 </p>
                 <div class="height"></div>
                 <div class="text-left">
@@ -328,15 +408,28 @@
                         <a class="btn btn-sm btn-modal" href="#">
                             <i class="fa fa-bars"></i>SEE MORE</a>
                         <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
+                            <h4>SAGE DRESSY BLAZER</h4>
                             <h6>@njmisty</h6>
                             <hr>
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
+                                LESS IS MORE signature RESORT collection
+                            <hr>
+                            Name it & Grab this awesome piece of outfit made Of velvety sandwashd silk with a twist
+                            of contrast middle sleeve Flounce.<br><br>
+                            N.B: All our Resort wears are Autographed with high end Fabrics and Accessories...
+                            exclusively available in single pieces only.
+                            <br>
+
                             </p>
 
                             <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
+                                TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
                             </p>
                         </div>
 
@@ -347,362 +440,6 @@
         </div>
         <div class="height"></div>
         <!--end of row-->
-        <div class="row">
-            <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/7.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Hanging Ten</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        NJ Misty
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
-                <div class="height"></div>
-                <div class="text-left">
-                    <div class="modal-container">
-                        <a class="btn btn-sm btn-modal" href="#">
-                            <i class="fa fa-bars"></i>SEE MORE</a>
-                        <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
-                            <h6>@njmisty</h6>
-                            <hr>
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
-
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
-                            </p>
-                        </div>
-
-                    </div>
-                    <!--end modal-->
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/8.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Round The Twist</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        NJ Misty
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
-                <div class="height"></div>
-                <div class="text-left">
-                    <div class="modal-container">
-                        <a class="btn btn-sm btn-modal" href="#">
-                            <i class="fa fa-bars"></i>SEE MORE</a>
-                        <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
-                            <h6>@njmisty</h6>
-                            <hr>
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
-
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
-                            </p>
-                        </div>
-
-                    </div>
-                    <!--end modal-->
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/9.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Road Trippin'</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        NJ Misty
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
-                <div class="height"></div>
-                <div class="text-left">
-                    <div class="modal-container">
-                        <a class="btn btn-sm btn-modal" href="#">
-                            <i class="fa fa-bars"></i>SEE MORE</a>
-                        <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
-                            <h6>@njmisty</h6>
-                            <hr>
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
-
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
-                            </p>
-                        </div>
-
-                    </div>
-                    <!--end modal-->
-                </div>
-            </div>
-        </div>
-        <div class="height"></div>
-        <!--end of row-->
-        <div class="row">
-            <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/10.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Hanging Ten</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        NJ Misty
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
-                <div class="height"></div>
-                <div class="text-left">
-                    <div class="modal-container">
-                        <a class="btn btn-sm btn-modal" href="#">
-                            <i class="fa fa-bars"></i>SEE MORE</a>
-                        <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
-                            <h6>@njmisty</h6>
-                            <hr>
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
-
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
-                            </p>
-                        </div>
-
-                    </div>
-                    <!--end modal-->
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/11.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Round The Twist</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        NJ Misty
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
-                <div class="height"></div>
-                <div class="text-left">
-                    <div class="modal-container">
-                        <a class="btn btn-sm btn-modal" href="#">
-                            <i class="fa fa-bars"></i>SEE MORE</a>
-                        <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
-                            <h6>@njmisty</h6>
-                            <hr>
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
-
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
-                            </p>
-                        </div>
-
-                    </div>
-                    <!--end modal-->
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/12.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Road Trippin'</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        NJ Misty
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
-                <div class="height"></div>
-                <div class="text-left">
-                    <div class="modal-container">
-                        <a class="btn btn-sm btn-modal" href="#">
-                            <i class="fa fa-bars"></i>SEE MORE</a>
-                        <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
-                            <h6>@njmisty</h6>
-                            <hr>
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
-
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
-                            </p>
-                        </div>
-
-                    </div>
-                    <!--end modal-->
-                </div>
-            </div>
-        </div>
-        <div class="height"></div>
-        <!--end of row-->
-        <div class="row">
-            <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/13.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Hanging Ten</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        NJ Misty
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
-                <div class="height"></div>
-                <div class="text-left">
-                    <div class="modal-container">
-                        <a class="btn btn-sm btn-modal" href="#">
-                            <i class="fa fa-bars"></i>SEE MORE</a>
-                        <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
-                            <h6>@njmisty</h6>
-                            <hr>
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
-
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
-                            </p>
-                        </div>
-
-                    </div>
-                    <!--end modal-->
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <a href="#">
-                    <img alt="Pic" class="mb24" src="img/less_is_more/14.jpeg"/>
-                </a>
-                <a href="#">
-                    <h4 class="mb8">Round The Twist</h4>
-                </a>
-                <ul class="list-inline mb16">
-                    <li>
-                        NJ Misty
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/lucednj/">
-                            <span class="label">BOOK THIS LOOK</span>
-                        </a>
-                    </li>
-                </ul>
-                <p class="mb0">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pharetra eros. Vivamus eu nisi
-                    ut dui bibendum ornare vitae a enim. Sed sit amet
-                </p>
-                <div class="height"></div>
-                <div class="text-left">
-                    <div class="modal-container">
-                        <a class="btn btn-sm btn-modal" href="#">
-                            <i class="fa fa-bars"></i>SEE MORE</a>
-                        <div class="foundry_modal">
-                            <h4>Hanging Ten</h4>
-                            <h6>@njmisty</h6>
-                            <hr>
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cupiditate explicabo inventore iure nostrum pariatur quos! Debitis eligendi est, ex illo non perspiciatis quia, quis quo repellat sapiente sint tempora.</span><span>Accusantium animi architecto asperiores eaque eius eligendi eos, ex fugiat impedit ipsam iste laboriosam libero magni molestias nemo nihil quae quaerat quisquam quod tempora? Ad animi est harum placeat tenetur.</span><span>Ab aspernatur consectetur cumque eius eveniet excepturi fuga itaque magnam minima nam non obcaecati quam reiciendis reprehenderit, totam, veniam voluptatem! Assumenda commodi dicta ducimus enim numquam quibusdam reprehenderit sunt ut!</span><span>Accusamus ad adipisci aliquam animi autem, beatae consequuntur culpa dolor facere, id in ipsa iste iure libero minima, minus placeat praesentium quae quisquam saepe sequi suscipit veritatis vitae voluptas voluptatum.</span>
-                            </p>
-
-                            <p>
-                                <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dolores ea, earum illum, iste laboriosam magni minima minus molestiae nam officiis soluta. Ad aspernatur fuga fugiat natus quisquam veniam.</span><span>Aperiam architecto asperiores aspernatur, consequatur deserunt dolores facilis id in laboriosam minus modi natus neque nihil nostrum officia pariatur praesentium, rem repudiandae sed sequi soluta sunt unde vitae voluptas voluptates.</span><span>Animi assumenda aut consequatur cum cupiditate delectus dolorum ea enim est eum fugiat harum ipsa ipsam labore magni minima odit officiis quae qui quidem, quis repellat soluta, temporibus voluptates voluptatum!</span>
-                            </p>
-                        </div>
-
-                    </div>
-                    <!--end modal-->
-                </div>
-            </div>
-        </div>
-        <div class="height"></div>
-
     </div>
     <!--end of container-->
 </section>
