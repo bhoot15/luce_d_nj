@@ -4043,7 +4043,10 @@ img {
 }
 
 .logo-carousel img {
-    max-height: 180px;
+    max-width: 90%;
+    max-height: 90%;
+    min-height: 90%;
+    min-width: 90%;
 }
 
 @media all and (max-width: 767px) {

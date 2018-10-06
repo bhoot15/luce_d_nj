@@ -54,5 +54,13 @@ class HomeController extends Controller
     {
         return view('work_with_us');
     }
+    public function njsLookBook()
+    {
+        return view('njs_lookbook');
+    }
+    public function shopMyLook()
+    {
+        return view('shop_my_look');
+    }
 
 }

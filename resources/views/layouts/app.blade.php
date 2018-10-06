@@ -16,6 +16,30 @@
     <link
         href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600'
         rel='stylesheet' type='text/css'>
+
+    <script src="https://www.gstatic.com/firebasejs/5.5.3/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyBzYYLRrY3dKHGoEsQxfrfdHfjY4KwKzDE",
+            authDomain: "lucednjweb.firebaseapp.com",
+            databaseURL: "https://lucednjweb.firebaseio.com",
+            projectId: "lucednjweb",
+            storageBucket: "",
+            messagingSenderId: "972531478654"
+        };
+        firebase.initializeApp(config);
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127031091-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-127031091-1');
+    </script>
+
     <style>
         footer {
             background-color: #0c1a1e;

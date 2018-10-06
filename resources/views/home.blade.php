@@ -5,65 +5,10 @@
 <section class="bg-light">
     <div class="nav-container">
         <a id="top"></a>
-        <nav class="nav-centered absolute transparent hover-underline-menu">
-            <!--<div class="text-center">
-                <a href="index.html">
-                    <img class="logo logo-light" alt="Foundry" src="img/logo-light.png" />
-                    <img class="logo logo-dark" alt="Foundry" src="img/logo-dark.png" />
-                </a>
-            </div>-->
-            <div class="nav-bar text-center">
-                <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
-                    <i class="ti-menu"></i>
-                </div>
-                <div class="module-group text-left">
-                    <div class="module left">
-                        <ul class="menu align-center">
-                            <li class="fa-li">
-                                <a href="/">
-                                    Home
-                                </a>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/signature-collection">
-                                    Signature Collection
-                                </a>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/">
-                                    Lifestyle
-                                </a>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/about">
-                                    About Us
-                                </a>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/">
-                                    Shop My Look
-                                </a>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/contacts">
-                                    Contacts
-                                </a>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/work-with-us">
-                                    Work With Us
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!--end of menu module-->
-                </div>
-                <!--end of module group-->
-            </div>
-        </nav>
+        @include('layouts.nav')
     </div>
 
-    <section class="bg-light">
+    <section class="bg-light image-square">
         <div class="container">
             <div class="row mb64 mb-xs-24">
                 <div class="col-md-10 col-md-offset-1 col-sm-12 text-center">
@@ -73,64 +18,66 @@
             <!--end of row-->
             <div class="row v-align-children">
                 <div class="col-md-5 col-sm-6 text-center mb-xs-24">
-                    <img class="cast-shadow" alt="Screenshot" src="img/njs/i_gotta_black_heart.jpg"/>
+                    <img class="cast-shadow" alt="Screenshot" src="img/njs/its_never_avant-garde.jpeg"/>
                 </div>
                 <div class="col-md-6 col-md-offset-1 col-sm-5 col-sm-offset-1">
                     <div class="row">
-                        <h3 class="uppercase bold">Build a slick, modern site faster than ever</h3>
+                        <h3 class="uppercase bold">ITS NEVER AVANT- GARDE</h3>
                         <p>
-                            Foundry is your complete design toolkit, built from the ground up to be flexible, extensible
-                            and
-                            stylish. Building slick, contemporary sites has never been this easy! Foundry is your
-                            complete design toolkit, built from the ground up to be flexible, extensible
-                            and
-                            stylish. Building slick, contemporary sites has never been this easy! Foundry is your
-                            complete design toolkit, built from the ground up to be flexible, extensible
-                            and
-                            stylish. Building slick, contemporary sites has never been this easy!
+                            It’s Never Avant-Garde Who said a vibrant traditional wear can not combine with a simple and
+                            casual wear, boots, Goth black lip tint and pronounce the desired statement. I paired a
+                            vibrant Banarasi Silk Saree with a casual white shirt, a pair of suede boots, black lip
+                            tint, a pair of traditional Gold earrings and a proper hair bun, stating my desired
+                            statement of showing an unorthodox miss match can look absolutely fabulous and stunningly
+                            gorgeous as well.
                         </p>
                     </div>
                     <div class="row">
                         <div class="logo-carousel">
                             <ul class="slides">
                                 <li>
-                                    <a href="#">
-                                        <img alt="Logo" src="img/njs/BLACK_GOLDEN_MUSING.jpg"/>
+                                    <a href="/njs-lookbook#extravaganza">
+                                        <img alt="Logo" src="img/njs/extravaganza.jpeg"/>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img alt="Logo" src="img/njs/BRUNCH_AT_BAE_S_PLACE.jpg"/>
+                                        <img alt="Logo" src="img/njs/in_the_trees_in_the_breeze.jpeg"/>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img alt="Logo" src="img/njs/CASUAL_EVENING_DATE_WITH_FLORAL_MOTIF.jpg"/>
+                                        <img alt="Logo" src="img/njs/nautical_stripe_game_is_on.jpeg"/>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img alt="Logo" src="img/njs/CHOKER_COLD_SHOULDER_IS_NEW_LOVE_AFFAIR.jpg"/>
+                                        <img alt="Logo" src="img/njs/one_touch_of_nature.jpeg"/>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img alt="Logo" src="img/njs/i_gotta_black_heart.jpg"/>
+                                        <img alt="Logo" src="img/njs/the_retro_red.jpeg"/>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img alt="Logo" src="img/njs/I_AM_ASSYMMETRIC.jpg"/>
+                                        <img alt="Logo" src="img/njs/brunch_at_baes_place.jpeg"/>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img alt="Logo" src="img/njs/ITS_NEVER_AVANTGARDE.jpg"/>
+                                        <img alt="Logo" src="img/njs/choker_and_cold_shoulder.jpeg"/>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img alt="Logo" src="img/njs/KURTI_REVISITED.jpg"/>
+                                        <img alt="Logo" src="img/njs/casual_evening_date.jpeg"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img alt="Logo" src="img/njs/black_and_gold_musing.jpeg"/>
                                     </a>
                                 </li>
                             </ul>
@@ -161,7 +108,7 @@
             <div class="col-sm-4">
                 <div class="image-tile inner-title title-center text-center">
                     <a href="/less-is-more">
-                        <img class="image-border" alt="Pic" src="img/less_is_more/6.jpeg"/>
+                        <img class="image-border" alt="Pic" src="img/less_is_more/cherry_tomato.jpeg"/>
                         <div class="title">
                             <h4 class="uppercase mb0 btn btn-lg">LESS IS MORE</h4>
                         </div>

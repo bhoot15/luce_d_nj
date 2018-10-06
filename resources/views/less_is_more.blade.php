@@ -4,74 +4,7 @@
 <section class="bg-light">
     <div class="nav-container">
         <a id="top"></a>
-        <nav class="nav-centered absolute transparent hover-underline-menu" data-menu-underline-from-center>
-            <!--<div class="text-center">
-                <a href="index.html">
-                    <img class="logo logo-light" alt="Foundry" src="img/logo-light.png" />
-                    <img class="logo logo-dark" alt="Foundry" src="img/logo-dark.png" />
-                </a>
-            </div>-->
-            <div class="nav-bar text-center">
-                <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
-                    <i class="ti-menu"></i>
-                </div>
-                <div class="module-group text-left">
-                    <div class="module left">
-                        <ul class="menu align-center">
-                            <li class="fa-li">
-                                <a href="/">
-                                    Home
-                                </a>
-                            </li>
-                            <li class="has-dropdown">
-                                <a href="/signature-collection">
-                                    Signature Collection
-                                </a>
-                                <ul class="mega-menu">
-                                    <li>
-                                        <ul>
-                                            <li>
-                                                <a href="/less-is-more">Less Is More</a>
-                                            </li>
-                                            <li>
-                                                <a href="/luxury-scarves">LUXURY SCARVES</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/">
-                                    Lifestyle
-                                </a>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/about">
-                                    About Us
-                                </a>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/">
-                                    Shop My Look
-                                </a>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/contacts">
-                                    Contacts
-                                </a>
-                            </li>
-                            <li class="fa-li">
-                                <a href="/work-with-us">
-                                    Work With Us
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!--end of menu module-->
-                </div>
-                <!--end of module group-->
-            </div>
-        </nav>
+        @include('layouts.nav')
     </div>
     <div class="container">
         <div class="height"></div>
@@ -440,6 +373,246 @@
         </div>
         <div class="height"></div>
         <!--end of row-->
+        <div class="row">
+            <div class="col-sm-4">
+                <a href="#">
+                    <img alt="Pic" class="mb24" src="img/less_is_more/sweet_lilac_vintage.jpeg"/>
+                </a>
+                <a href="#">
+                    <h4 class="mb8">SWEET LILAC VINTAGE</h4>
+                </a>
+                <ul class="list-inline mb16">
+                    <li>
+                        NJ Misty
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/lucednj/">
+                            <span class="label">BOOK THIS LOOK</span>
+                        </a>
+                    </li>
+                </ul>
+                <p class="mb0">
+                    You can be PRETTY & BOSSY in unison. And this 70's inspired designer pure Linen suit can definitely
+                    give you a vibe of vintage while you are pairing up with the floral trope organza shirt.
+                </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>SWEET LILAC VINTAGE</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                LESS IS MORE signature RESORT collection
+                            <hr>
+                            You can be PRETTY & BOSSY in unison. And this 70's inspired designer pure Linen suit can
+                            definitely give you a vibe of vintage while you are pairing up with the floral trope organza
+                            shirt.<br><br>
+                            N.B: All our Resort wears are Autographed with high end Fabrics and Accessories...
+                            exclusively available in single pieces only.<br>
+
+
+                            </p>
+                            <p>
+                                TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <a href="#">
+                    <img alt="Pic" class="mb24" src="img/less_is_more/cherry_tomato.jpeg"/>
+                </a>
+                <a href="#">
+                    <h4 class="mb8">CHERRY TOMATO</h4>
+                </a>
+                <ul class="list-inline mb16">
+                    <li>
+                        NJ Misty
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/lucednj/">
+                            <span class="label">BOOK THIS LOOK</span>
+                        </a>
+                    </li>
+                </ul>
+                <p class="mb0">
+                    Cherry tomato is what you are looking for Friday night!!!
+                    this retrospired ready to GO Party wear is a must have in your closet if you like it both CHic &
+                    Classy!
+                    Make your statement ALOUD .
+                </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>CHERRY TOMATO</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+
+                                LESS IS MORE signature RESORT collection
+                            <hr>
+                            Cherry tomato is what you are looking for Friday night!!!<br>
+                            this retrospired ready to GO Party wear is a must have in your closet if you like it both
+                            CHic & Classy!<br>
+                            Make your statement ALOUD.
+                            <br><br>
+                            N.B: All our Resort wears are Autographed with high end Fabrics and Accessories...
+                            exclusively available in single pieces only.<br>
+
+
+                            </p>
+                            <p>
+                                TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <a href="#">
+                    <img alt="Pic" class="mb24" src="img/less_is_more/quiet_and_cold_grey.jpeg"/>
+                </a>
+                <a href="#">
+                    <h4 class="mb8">QUIET AND COLD GREY</h4>
+                </a>
+                <ul class="list-inline mb16">
+                    <li>
+                        NJ Misty
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/lucednj/">
+                            <span class="label">BOOK THIS LOOK</span>
+                        </a>
+                    </li>
+                </ul>
+                <p class="mb0">
+                    Wear the perfect shade of Grey this FALL season from LUCE.
+                    The velvety sand-washed silk made top is what you need in your wardrobe for sure; pairing up with
+                    stone worked glittery culotte pant.
+                </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>QUIET AND COLD GREY</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                LESS IS MORE signature RESORT collection
+                            <hr>
+                            Wear the perfect shade of Grey this FALL season from LUCE.<br>
+                            The velvety sand-washed silk made top is what you need in your wardrobe for sure; pairing up
+                            with
+                            stone worked glittery culotte pant.
+                            <br><br>
+                            N.B: All our Resort wears are Autographed with high end Fabrics and Accessories...
+                            exclusively available in single pieces only.
+                            <br>
+
+                            </p>
+
+                            <p>
+                                TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
+            </div>
+        </div>
+        <div class="height"></div>
+        <!--end of row-->
+        <div class="row">
+            <div class="col-sm-4">
+                <a href="#">
+                    <img alt="Pic" class="mb24" src="img/less_is_more/sheer_it_dear.jpeg"/>
+                </a>
+                <a href="#">
+                    <h4 class="mb8">SHEER IT DEAR</h4>
+                </a>
+                <ul class="list-inline mb16">
+                    <li>
+                        NJ Misty
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/lucednj/">
+                            <span class="label">BOOK THIS LOOK</span>
+                        </a>
+                    </li>
+                </ul>
+                <p class="mb0">
+                    This Ivory Sheer tailored suit is the final look from RESORT COLLECTION.
+                    Handpicked Fabric & accessories made it *the Extravaganza* that you would go GAGA for.
+                </p>
+                <div class="height"></div>
+                <div class="text-left">
+                    <div class="modal-container">
+                        <a class="btn btn-sm btn-modal" href="#">
+                            <i class="fa fa-bars"></i>SEE MORE</a>
+                        <div class="foundry_modal">
+                            <h4>SHEER IT DEAR</h4>
+                            <h6>@njmisty</h6>
+                            <hr>
+                            <p>
+                                LESS IS MORE signature RESORT collection
+                            <hr>
+                            This Ivory Sheer tailored suit is the final look from RESORT COLLECTION.
+                            Handpicked Fabric & accessories made it *the Extravaganza* that you would go GAGA
+                            for.<br><br>
+                            N.B: All our Resort wears are Autographed with high end Fabrics and Accessories...
+                            exclusively available in single pieces only.<br>
+
+
+                            </p>
+                            <p>
+                                TO PURCHASE PLEASE <br><br><a href="https://www.facebook.com/lucednj/">
+                                    <span class="label">BOOK THIS LOOK</span>
+                                </a> <br><br>
+                                <a
+                                    href="https://www.facebook.com/882541661817385/posts/2229926327078905/">
+                                    <span class="label">THE BUYER’s GUIDELINE</span>
+                                </a> <br><br>
+                            </p>
+                        </div>
+
+                    </div>
+                    <!--end modal-->
+                </div>
+            </div>
+        </div>
+        <div class="height"></div>
     </div>
     <!--end of container-->
 </section>
