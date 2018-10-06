@@ -17,6 +17,11 @@
                             Home
                         </a>
                     </li>
+                    <li class="fa-li">
+                        <a href="/njs-lookbook">
+                            NJ's Lookbook
+                        </a>
+                    </li>
                     <li class="has-dropdown">
                         <a href="/signature-collection">
                             Signature Collection
