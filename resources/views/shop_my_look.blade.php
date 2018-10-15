@@ -17,34 +17,157 @@
     </div>
     <!--end of container-->
 </section>
-<section class="pt40 pb0">
+
+<section class="bg-light">
+    <!--end of row-->
     <div class="container">
-        <div class="row">
-            <div class="col-sm-6">
-                <div class="image-tile inner-title title-center text-center">
-                    <a href="#">
-                        <img alt="Pic" src="img/home5.jpg"/>
-                        <div class="title">
-                            <h4 class="uppercase mb0">#SHOPTHISLOOK</h4>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-6">
-                <div class="image-tile inner-title title-center text-center">
-                    <a href="#">
-                        <img alt="Pic"
-                             src="https://images.unsplash.com/photo-1439789246184-86fd68529829?q=80&fm=jpg&s=9b5281bedc9e4ce2e40216c99715f5e5"/>
-                        <div class="title">
-                            <h4 class="uppercase mb0">#shopthislook</h4>
-                        </div>
-                    </a>
-                </div>
+        <!--content-1-->
+        <div class="row text-center">
+
+            <div class="col-sm-12 col-lg-12 col-md-12">
+                <a href="#">
+                    <img alt="Pic" class="mb24 text-center" src="img/shopmylook/shopmylook_post_1.jpeg"/>
+                </a>
             </div>
         </div>
+        <div class="height"></div>
+        <div class="row text-center">
+            <div class="col-sm-3 col-md-3 col-lg-3"></div>
+
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <ul class="list-inline mb16">
+                    <li>
+                        To shop this amazing 80 mile beach recycled silver beach pendant
+                    </li>
+                    <li>
+                        <a href="https://www.cicelycliff.com/home" target="_blank">
+                            <span class="label">BOOK THIS LOOK</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-3 col-md-3 col-lg-3"></div>
+        </div>
+        <div class="height"></div>
+        <!--content-2-->
+        <div class="row text-center">
+
+            <div class="col-sm-12 col-lg-12 col-md-12">
+                <a href="#">
+                    <img alt="Pic" class="mb24 text-center" src="img/shopmylook/shopmylook_post_2.jpeg"/>
+                </a>
+            </div>
+        </div>
+        <div class="height"></div>
+        <div class="row text-center">
+            <div class="col-sm-3 col-md-3 col-lg-3"></div>
+
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <ul class="list-inline mb16">
+                    <li>
+                        To shop this Oversized Aviator recreated fashion glass
+                    </li>
+                    <li>
+                        <a href="https://www.noranyc.com" target="_blank">
+                            <span class="label">BOOK THIS LOOK</span>
+                        </a>
+                    </li>
+                    <li>
+                        Use promo code <span class="label">NJMISTY</span> for 10% discount.
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-3 col-md-3 col-lg-3"></div>
+        </div>
+        <div class="height"></div>
+        <!--content-3-->
+        <div class="row text-center">
+
+            <div class="col-sm-12 col-lg-12 col-md-12">
+                <a href="#">
+                    <img alt="Pic" class="mb24 text-center" src="img/shopmylook/shopmylook_post_3.jpeg"/>
+                </a>
+            </div>
+        </div>
+        <div class="height"></div>
+        <div class="row text-center">
+            <div class="col-sm-3 col-md-3 col-lg-3"></div>
+
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <ul class="list-inline mb16">
+                    <li>
+                        To get this amazing makeover
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/neusalonzindia/?utm_source=ig_profile_share&igshid=1eui3e4d9boub"
+                           target="_blank">
+                            <span class="label">BOOK THIS LOOK</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-3 col-md-3 col-lg-3"></div>
+        </div>
+        <div class="height"></div>
+        <!--content-4-->
+        <div class="row text-center">
+
+            <div class="col-sm-12 col-lg-12 col-md-12">
+                <a href="#">
+                    <img alt="Pic" class="mb24 text-center" src="img/shopmylook/shopmylook_post_4.jpeg"/>
+                </a>
+            </div>
+        </div>
+        <div class="height"></div>
+        <div class="row text-center">
+            <div class="col-sm-3 col-md-3 col-lg-3"></div>
+
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <ul class="list-inline mb16">
+                    <li>
+                        Shop this budget friendly ethnic look from
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/bluedhaka/" target="_blank">
+                            <span class="label">Blue Dhaka</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-3 col-md-3 col-lg-3"></div>
+        </div>
+        <div class="height"></div>
+        <!--content-5-->
+        <div class="row text-center">
+
+            <div class="col-sm-12 col-lg-12 col-md-12">
+                <a href="#">
+                    <img alt="Pic" class="mb24 text-center" src="img/shopmylook/shopmylook_post_5.jpeg"/>
+                </a>
+            </div>
+        </div>
+        <div class="height"></div>
+        <div class="row text-center">
+            <div class="col-sm-3 col-md-3 col-lg-3"></div>
+
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <ul class="list-inline mb16">
+                    <li>
+                        Shop this amazing statement party jacket from
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/lucednj" target="_blank">
+                            <span class="label">Luce d NJ</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-3 col-md-3 col-lg-3"></div>
+        </div>
+        <div class="height"></div>
+
+
     </div>
-</section>
-<section>
-    <div class="height"></div>
+    <!--end of row-->
 </section>
 @endsection
