@@ -1987,24 +1987,22 @@
         </div>
     </div>
 </section>
-
-
-@endsection
-<div class="foundry_modal text-center image-bg overlay"
-     data-time-delay="3000" data-cookie="signup-form-dismissed">
+<section>
+    <div class="foundry_modal text-center image-bg overlay"
+         data-time-delay="10000" <!--data-cookie="signup-form-dismissed"-->>
     <div class="background-image-holder">
         <img alt="Background" class="background-image" src="img/capital-t-5.jpg"/>
     </div>
     <h3 class="uppercase bold italic">DON'T MISS OUT!</h3>
     <h6 class="uppercase">SIGN UP HERE TO RECEIVE OUR EXCLUSIVE CONTENT & PROMOS!</h6>
-    <form class="form-horizontal" method="POST" action="/contact">
-        {{ csrf_field() }}
-        <input class="validate-required" type="text" id="name" placeholder="Your name" name="name"
-               required/>
-        <input type="text" class="validate-required validate-email" id="email"
-               placeholder="john@example.com" name="email" required/>
-        <textarea class="validate-required" rows="4" id="message" placeholder="Type your messages here"
-                  name="message" required></textarea>
+    <form class="form-email" data-success="Thanks for your submission, we will be in touch shortly."
+          data-error="Please fill all fields correctly.">
+        <input type="text" class="validate-required" name="name" placeholder="Your Name"/>
+        <input type="text" class="validate-required validate-email" name="email"
+               placeholder="Email Address"/>
+        <textarea class="validate-required" name="message" rows="4" placeholder="Message"></textarea>
         <button type="submit">Send Message</button>
     </form>
-</div>
+    </div>
+</section>
+@endsection
