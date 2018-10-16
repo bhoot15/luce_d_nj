@@ -1128,7 +1128,7 @@ nav.bg-dark .logo-dark {
     font-size: 13px;
     text-transform: uppercase;
     font-weight: 600;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
     color: #292929 !important;
     opacity: 0.5;
     transition: all 0.3s ease;
@@ -1431,7 +1431,7 @@ nav .cart-overview a {
 
 @media all and (max-width: 1120px) {
     .menu > li {
-        margin-right: 24px;
+        margin-right: 0px;
     }
 }
 
