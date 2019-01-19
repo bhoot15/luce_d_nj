@@ -18,70 +18,27 @@
                 <!--end of row-->
                 <div class="row v-align-children">
                     <div class="col-md-5 col-sm-6 text-center mb-xs-24">
-                        <img class="cast-shadow" alt="Screenshot" src="img/njs/its_never_avant-garde.jpeg"/>
+                        @foreach($hnj as $hnjs)
+                            <img class="cast-shadow" alt="Screenshot" src="{{$hnjs->large_image_url}}"/>
+                        @endforeach
                     </div>
                     <div class="col-md-6 col-md-offset-1 col-sm-5 col-sm-offset-1">
                         <div class="row">
-                            <h3 class="uppercase bold">ITS NEVER AVANT- GARDE</h3>
+                            <h3 class="uppercase bold">{{$hnjs->name}}</h3>
                             <p>
-                                It’s Never Avant-Garde Who said a vibrant traditional wear can not combine with a simple
-                                and
-                                casual wear, boots, Goth black lip tint and pronounce the desired statement. I paired a
-                                vibrant Banarasi Silk Saree with a casual white shirt, a pair of suede boots, black lip
-                                tint, a pair of traditional Gold earrings and a proper hair bun, stating my desired
-                                statement of showing an unorthodox miss match can look absolutely fabulous and
-                                stunningly
-                                gorgeous as well.
+                                {{$hnjs->description}}
                             </p>
                         </div>
                         <div class="row">
                             <div class="logo-carousel">
                                 <ul class="slides">
-                                    <li>
-                                        <a href="/njs-lookbook#extravaganza">
-                                            <img alt="Logo" src="img/njs/extravaganza.jpeg"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img alt="Logo" src="img/njs/in_the_trees_in_the_breeze.jpeg"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img alt="Logo" src="img/njs/nautical_stripe_game_is_on.jpeg"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img alt="Logo" src="img/njs/one_touch_of_nature.jpeg"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img alt="Logo" src="img/njs/the_retro_red.jpeg"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img alt="Logo" src="img/njs/brunch_at_baes_place.jpeg"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img alt="Logo" src="img/njs/choker_and_cold_shoulder.jpeg"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img alt="Logo" src="img/njs/casual_evening_date.jpeg"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img alt="Logo" src="img/njs/black_and_gold_musing.jpeg"/>
-                                        </a>
-                                    </li>
+                                    @foreach($njs as $nj)
+                                        <li>
+                                            <a href="/njs-lookbook">
+                                                <img alt="Logo" src="{{$nj->image_url}}"/>
+                                            </a>
+                                        </li>
+                                    @endforeach
                                 </ul>
                             </div>
                             <!--end of logo slider-->
@@ -471,20 +428,22 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-12 col-md-6 col-lg-6">
-                    <div class="instafeed grid-gallery text-center" data-user-name="mrareweb">
-                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/TUniKcafl2c"
-                                frameborder="0"
-                                allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                @foreach($vlogs as $vlog)
+                    <div class="col-sm-12 col-md-6 col-lg-6">
+                        <div class="instafeed grid-gallery text-center" data-user-name="mrareweb">
+                            <iframe width="100%" height="400px" src="{{$vlog->video_url}}"
+                                    frameborder="0"
+                                    allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        </div>
                     </div>
-                </div>
-                <div class="col-sm-12 col-md-6 col-lg-6">
+                @endforeach
+                {{--<div class="col-sm-12 col-md-6 col-lg-6">
                     <div class="instafeed grid-gallery text-center" data-user-name="mrareweb">
                         <iframe width="100%" height="400px" src="https://www.youtube.com/embed/HUvaAgLMpto"
                                 frameborder="0"
                                 allow="autoplay; encrypted-media" allowfullscreen></iframe>
                     </div>
-                </div>
+                </div>--}}
             </div>
         </div>
     </section>

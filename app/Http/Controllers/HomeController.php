@@ -23,6 +23,9 @@ class HomeController extends Controller
      */
     public function index()
     {
+        $vlogs = DB::table('vlogs')->get();
+        $hnj = DB::table('home_njslookbookpages')->get();
+
         $ifs = DB::table('light_of_fashions')
             ->where('image_type', '=', 'It Fixes')
             ->get();
@@ -65,7 +68,10 @@ class HomeController extends Controller
             ->where('id', '<', 10)
             ->get();
 
-        return view('home', compact('nj_insta1', 'nj_insta2', 'nj_insta3', 'lc_insta1', 'lc_insta2', 'lc_insta3', 'ifs', 'iis', 'ios'));
+        $njs = DB::table('njslookbookpages')
+            ->get();
+
+        return view('home', compact('nj_insta1', 'nj_insta2', 'nj_insta3', 'lc_insta1', 'lc_insta2', 'lc_insta3', 'ifs', 'iis', 'ios', 'vlogs', 'hnj', 'njs'));
     }
 
     public function signatureCollection()
