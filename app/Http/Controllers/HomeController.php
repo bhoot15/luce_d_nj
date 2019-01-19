@@ -33,12 +33,16 @@ class HomeController extends Controller
 
     public function lessIsMore()
     {
-        return view('less_is_more');
+        $lscs = DB::table('less_is_more')
+            ->get();
+        return view('less_is_more', compact('lscs'));
     }
 
     public function scarves()
     {
-        return view('luxury_scarves');
+        $lscs = DB::table('luxury_scarves')
+            ->get();
+        return view('luxury_scarves', compact('lscs'));
     }
 
     public function contacts()
