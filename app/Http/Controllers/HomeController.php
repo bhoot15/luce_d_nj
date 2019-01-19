@@ -48,12 +48,16 @@ class HomeController extends Controller
 
     public function about()
     {
-        return view('about');
+        $abt = DB::table('about_us')
+            ->get();
+        return view('about', compact('abt'));
     }
 
     public function workWithUs()
     {
-        return view('work_with_us');
+        $wwus = DB::table('work_with_us')
+            ->get();
+        return view('work_with_us', compact('wwus'));
     }
 
     public function njsLookBook()
