@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class HomeController extends Controller
 {
@@ -50,14 +50,19 @@ class HomeController extends Controller
     {
         return view('about');
     }
+
     public function workWithUs()
     {
         return view('work_with_us');
     }
+
     public function njsLookBook()
     {
-        return view('njs_lookbook');
+        $njs = DB::table('njslookbookpages')
+            ->get();
+        return view('njs_lookbook', compact('njs'));
     }
+
     public function shopMyLook()
     {
         return view('shop_my_look');
