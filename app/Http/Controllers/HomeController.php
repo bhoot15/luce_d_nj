@@ -69,7 +69,9 @@ class HomeController extends Controller
 
     public function shopMyLook()
     {
-        return view('shop_my_look');
+        $slooks = DB::table('shop_my_look')
+            ->get();
+        return view('shop_my_look', compact('slooks'));
     }
 
 }
