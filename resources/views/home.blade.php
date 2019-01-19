@@ -469,9 +469,7 @@
                                         <div class="carousel-inner">
                                             <?php $val = 1;?>
                                             @foreach($ifs as $if)
-
-                                                <div <?if($val == 1){ ?> class="item active"
-                                                     <?php } else { ?> class="item" <?php } ?>>
+                                                <div class="item <? if ($val == 1) echo "active"; ?>">
                                                     <?$val++;?>
                                                     <img alt="Image" src="{{$if->image_url}}"/>
                                                 </div>
@@ -499,9 +497,7 @@
                                         <div class="carousel-inner">
                                             <?php $val1 = 1;?>
                                             @foreach($iis as $ii)
-
-                                                <div <?if($val1 == 1){ ?> class="item active"
-                                                     <?php } else { ?> class="item" <?php } ?>>
+                                                <div class="item <? if ($val1 == 1) echo "active"; ?>">
                                                     <?$val1++;?>
                                                     <img alt="Image" src="{{$ii->image_url}}"/>
                                                 </div>
@@ -529,8 +525,7 @@
                                             <?php $val2 = 1;?>
                                             @foreach($ios as $io)
 
-                                                <div <?if($val2 == 1){ ?> class="item active"
-                                                     <?php } else { ?> class="item" <?php } ?>>
+                                                <div class="item <? if ($val2 == 1) echo "active"; ?>">
                                                     <?$val2++;?>
                                                     <img alt="Image" src="{{$io->image_url}}"/>
                                                 </div>
