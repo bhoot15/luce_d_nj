@@ -23,7 +23,49 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('home');
+        $ifs = DB::table('light_of_fashions')
+            ->where('image_type', '=', 'It Fixes')
+            ->get();
+
+        $iis = DB::table('light_of_fashions')
+            ->where('image_type', '=', 'It Influences')
+            ->get();
+
+        $ios = DB::table('light_of_fashions')
+            ->where('image_type', '=', 'It Orients')
+            ->get();
+
+        $nj_insta1 = DB::table('home_insta_nj_misty')
+            ->where('id', '>', 0)
+            ->where('id', '<', 4)
+            ->get();
+
+        $nj_insta2 = DB::table('home_insta_nj_misty')
+            ->where('id', '>', 3)
+            ->where('id', '<', 7)
+            ->get();
+
+        $nj_insta3 = DB::table('home_insta_nj_misty')
+            ->where('id', '>', 6)
+            ->where('id', '<', 10)
+            ->get();
+
+        $lc_insta1 = DB::table('home_insta_lucednj')
+            ->where('id', '>', 0)
+            ->where('id', '<', 4)
+            ->get();
+
+        $lc_insta2 = DB::table('home_insta_lucednj')
+            ->where('id', '>', 3)
+            ->where('id', '<', 7)
+            ->get();
+
+        $lc_insta3 = DB::table('home_insta_lucednj')
+            ->where('id', '>', 6)
+            ->where('id', '<', 10)
+            ->get();
+
+        return view('home', compact('nj_insta1', 'nj_insta2', 'nj_insta3', 'lc_insta1', 'lc_insta2', 'lc_insta3', 'ifs', 'iis', 'ios'));
     }
 
     public function signatureCollection()
