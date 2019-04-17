@@ -21,4 +21,5 @@ Route::get('/contacts', 'HomeController@contacts')->name('contacts');
 Route::get('/about', 'HomeController@about')->name('about');
 Route::get('/work-with-us', 'HomeController@workWithUs')->name('workWithUs');
 Route::get('/njs-lookbook', 'HomeController@njsLookBook')->name('njsLookbook');
+Route::get('/light-of-fashion', 'HomeController@lightOfFashion')->name('lightOfFashion');
 Route::get('/shop-my-look', 'HomeController@shopMyLook')->name('shopMyLook');

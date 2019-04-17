@@ -19,11 +19,11 @@
                 <!--<h3 class="uppercase">Get In Touch</h3>-->
                 <h4 class="bold uppercase">USE THE FOLLOWING EMAIL(S) TO CONTACT US</h4>
                 <hr>
-                <h5><b>INQUIRIES: </b><u>info@lucednj.com</u></h5>
+                <h5><b>INQUIRIES: </b><u>lightofnj@gmail.com</u></h5>
 
-                <h5><b>COLLABORATIONS: </b><u>collaborations@lucednj.com</u></h5>
+                <h5><b>COLLABORATIONS: </b><u>lightofnj@gmail.com</u></h5>
 
-                <h5><b>ADVERTISEMENTS: </b><u>advertisements@lucednj.com</u></h5>
+                <h5><b>ADVERTISEMENTS: </b><u>lightofnj@gmail.com</u></h5>
 
                 <h5 class="bold uppercase">OR USE THE FORM HERE TO SEND US YOUR MESSAGE</h5>
                 <!--                <h4 class="uppercase">Get expert insights straight to your e-mail</h4>-->

@@ -26,18 +26,6 @@ class HomeController extends Controller
         $vlogs = DB::table('vlogs')->get();
         $hnj = DB::table('home_njslookbookpages')->get();
 
-        $ifs = DB::table('light_of_fashions')
-            ->where('image_type', '=', 'It Fixes')
-            ->get();
-
-        $iis = DB::table('light_of_fashions')
-            ->where('image_type', '=', 'It Influences')
-            ->get();
-
-        $ios = DB::table('light_of_fashions')
-            ->where('image_type', '=', 'It Orients')
-            ->get();
-
         $nj_insta1 = DB::table('home_insta_nj_misty')
             ->where('id', '>', 0)
             ->where('id', '<', 4)
@@ -71,7 +59,7 @@ class HomeController extends Controller
         $njs = DB::table('njslookbookpages')
             ->get();
 
-        return view('home', compact('nj_insta1', 'nj_insta2', 'nj_insta3', 'lc_insta1', 'lc_insta2', 'lc_insta3', 'ifs', 'iis', 'ios', 'vlogs', 'hnj', 'njs'));
+        return view('home', compact('nj_insta1', 'nj_insta2', 'nj_insta3', 'lc_insta1', 'lc_insta2', 'lc_insta3', 'vlogs', 'hnj', 'njs'));
     }
 
     public function signatureCollection()
@@ -117,6 +105,13 @@ class HomeController extends Controller
         $njs = DB::table('njslookbookpages')
             ->get();
         return view('njs_lookbook', compact('njs'));
+    }
+
+    public function lightOfFashion()
+    {
+        $lofs = DB::table('light_of_fashions')
+            ->get();
+        return view('light_of_fashion', compact('lofs'));
     }
 
     public function shopMyLook()
